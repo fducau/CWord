@@ -1,9 +1,0 @@
-PWD /home/fnd/DS/3001_NLU/chatbots/nmt/nmt
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/fnd/DS/3001_NLU/chatbots/nmt/nmt/nmt.py
-OUTPUT /home/fnd/DS/3001_NLU/chatbots/nmt/nmt/nmt.log
-OUTPUT /home/fnd/DS/3001_NLU/chatbots/nmt/nmt/nmt.pdf
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
