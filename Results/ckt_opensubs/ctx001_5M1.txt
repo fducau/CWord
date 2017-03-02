@@ -1,0 +1,2113 @@
+Loading data...
+... initializing data iterators
+Building model...
+context_cbow broadcast: (False, False)
+Concat done
+Buliding sampler...
+context_cbow broadcast: (False, False)
+Concat done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+[21_41_44] Epoch: 0, Update: 250, Cost: 27.3276195526, UD 1.01886820793
+[21_45_53] Epoch: 0, Update: 500, Cost: 30.5923366547, UD 0.985893011093
+[21_50_04] Epoch: 0, Update: 750, Cost: 25.0647392273, UD 0.942436933517
+[21_54_13] Epoch: 0, Update: 1000, Cost: 30.1306552887, UD 0.997524023056
+[21_58_21] Epoch: 0, Update: 1250, Cost: 27.3724002838, UD 0.976068019867
+[22_02_22] Epoch: 0, Update: 1500, Cost: 27.6867275238, UD 0.983274936676
+Source 0:  and now we 're here . __eou__
+Truth 0: i can 't go on like this , ellie . __eou__
+Sample 0: i 'm just gonna say it . __eou__
+Source 1:  i can 't go on like this , ellie . __eou__
+Truth 1: i think i 've discovered a secret __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  i think i 've discovered a secret __eou__
+Truth 2: about the most beautiful woman in history . __eou__
+Sample 2: that i 'm not telling you about . __eou__
+Source 3:  about the most beautiful woman in history . __eou__
+Truth 3: kate UNK ? __eou__
+Sample 3: i 'm not going to let you __eou__
+Source 4:  kate UNK ? __eou__
+Truth 4: in history , henry . __eou__
+Sample 4: i 'm so sorry . __eou__
+[22_06_31] Epoch: 0, Update: 1750, Cost: 26.922990799, UD 0.986227035522
+[22_10_37] Epoch: 0, Update: 2000, Cost: 31.2040557861, UD 0.97550201416
+[22_14_43] Epoch: 0, Update: 2250, Cost: 31.4290885925, UD 1.01318597794
+[22_18_45] Epoch: 0, Update: 2500, Cost: 22.616651535, UD 0.838711977005
+[22_22_55] Epoch: 0, Update: 2750, Cost: 22.511598587, UD 0.977237939835
+[22_27_02] Epoch: 0, Update: 3000, Cost: 23.4573001862, UD 1.02796196938
+Source 0:  but he got away . __eou__
+Truth 0: otherwise he 'd be in the well . __eou__
+Sample 0: he was going to kill him . __eou__
+Source 1:  otherwise he 'd be in the well . __eou__
+Truth 1: exactly . __eou__
+Sample 1: he 's got to be somewhere . __eou__
+Source 2:  exactly . __eou__
+Truth 2: where do we start ? __eou__  the mountain . __eou__
+Sample 2: he 's going to kill us . __eou__
+Source 3:  where do we start ? __eou__  the mountain . __eou__
+Truth 3: it 's full of caves . __eou__
+Sample 3: he 's going to be fine . __eou__
+Source 4:  it 's full of caves . __eou__
+Truth 4: he could be hidden up there unable to move . __eou__
+Sample 4: we 'll be right back . __eou__
+[22_31_11] Epoch: 0, Update: 3250, Cost: 27.9248790741, UD 1.01821804047
+[22_35_20] Epoch: 0, Update: 3500, Cost: 19.8126106262, UD 0.844199895859
+[22_39_26] Epoch: 0, Update: 3750, Cost: 18.6442108154, UD 0.741213083267
+[22_43_32] Epoch: 0, Update: 4000, Cost: 33.4988822937, UD 1.00772595406
+[22_47_42] Epoch: 0, Update: 4250, Cost: 24.2241344452, UD 1.03911399841
+[22_51_50] Epoch: 0, Update: 4500, Cost: 26.7461128235, UD 0.978197097778
+Source 0:  what the UNK ... __eou__
+Truth 0: what the hell did we come to dinner for , then ? __eou__
+Sample 0: you 're gonna be __eou__
+Source 1:  what the hell did we come to dinner for , then ? __eou__
+Truth 1: for this . __eou__
+Sample 1: you 're not gonna eat this , are you ? __eou__
+Source 2:  for this . __eou__
+Truth 2: what this ? __eou__
+Sample 2: you 're not gonna do it . __eou__
+Source 3:  what this ? __eou__
+Truth 3: this . __eou__
+Sample 3: you 're not gonna do it . __eou__
+Source 4:  this . __eou__
+Truth 4: okay . __eou__
+Sample 4: and the UNK . __eou__
+[22_56_00] Epoch: 0, Update: 4750, Cost: 35.7372131348, UD 1.02469277382
+[23_00_07] Epoch: 0, Update: 5000, Cost: 28.5127105713, UD 1.03136110306
+Saving...
+Done
+[23_04_19] Epoch: 0, Update: 5250, Cost: 20.3970947266, UD 1.01572108269
+[23_08_25] Epoch: 0, Update: 5500, Cost: 25.3572368622, UD 0.99741601944
+[23_12_32] Epoch: 0, Update: 5750, Cost: 29.495388031, UD 0.915108919144
+[23_16_35] Epoch: 0, Update: 6000, Cost: 31.2712554932, UD 0.998772859573
+Source 0:  by UNK of UNK UNK . __eou__
+Truth 0: UNK . __eou__
+Sample 0: i 'm afraid i can 't get a UNK of anything __eou__
+Source 1:  UNK . __eou__
+Truth 1: of the UNK UNK . __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  of the UNK UNK . __eou__
+Truth 2: i 'll take your word for it . __eou__
+Sample 2: i 'm afraid i can 't get a UNK of my UNK . __eou__
+Source 3:  i 'll take your word for it . __eou__
+Truth 3: i think it 's time for another song . __eou__
+Sample 3: i 'm going to get you out of here . __eou__
+Source 4:  i think it 's time for another song . __eou__
+Truth 4: come on , UNK . __eou__ deck the halls ! __eou__
+Sample 4: i 'm not going to the UNK . __eou__
+[23_20_46] Epoch: 0, Update: 6250, Cost: 25.7105331421, UD 0.934974908829
+[23_24_53] Epoch: 0, Update: 6500, Cost: 35.7146339417, UD 0.966322183609
+[23_29_02] Epoch: 0, Update: 6750, Cost: 24.4403896332, UD 1.1998269558
+[23_33_10] Epoch: 0, Update: 7000, Cost: 25.8250694275, UD 1.01192688942
+[23_37_16] Epoch: 0, Update: 7250, Cost: 19.0755310059, UD 0.795431852341
+[23_41_23] Epoch: 0, Update: 7500, Cost: 26.4053192139, UD 0.968230009079
+Source 0:  yeah , i heard . __eou__
+Truth 0: you hear anything about baltimore ? __eou__
+Sample 0: you know , i 'm sorry . __eou__
+Source 1:  you hear anything about baltimore ? __eou__
+Truth 1: nope . __eou__
+Sample 1: you know , i 'm sorry . __eou__
+Source 2:  nope . __eou__
+Truth 2: nothing like a road trip to satisfy an angel 's soul . __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  nothing like a road trip to satisfy an angel 's soul . __eou__
+Truth 3: i about got the rest of our trip mapped out . __eou__
+Sample 3: i 'm just gonna take this to the lab . __eou__
+Source 4:  i about got the rest of our trip mapped out . __eou__
+Truth 4: i 'm glad you 're UNK with me . __eou__
+Sample 4: i 'm sorry . __eou__
+[23_45_30] Epoch: 0, Update: 7750, Cost: 21.1437683105, UD 1.17532014847
+[23_49_38] Epoch: 0, Update: 8000, Cost: 30.2389564514, UD 1.06095409393
+[23_53_47] Epoch: 0, Update: 8250, Cost: 29.3266906738, UD 0.952923059464
+[23_57_56] Epoch: 0, Update: 8500, Cost: 24.6963024139, UD 0.976940870285
+[00_02_01] Epoch: 0, Update: 8750, Cost: 25.849187851, UD 0.998986005783
+[00_06_04] Epoch: 0, Update: 9000, Cost: 32.9460372925, UD 0.936580896378
+Source 0:  kate ! __eou__
+Truth 0: yeah ? __eou__
+Sample 0: i 'm gonna be late for school . __eou__
+Source 1:  yeah ? __eou__
+Truth 1: what 's going on ? __eou__
+Sample 1: i 'm gonna get my shoes . __eou__
+Source 2:  what 's going on ? __eou__
+Truth 2: holt checks him out ; __eou__ he 's all good . __eou__
+Sample 2: i 'm gonna get some more . __eou__
+Source 3:  holt checks him out ; __eou__ he 's all good . __eou__
+Truth 3: minute later when he stands up to leave ... collapses . __eou__
+Sample 3: i 'm gonna get my coat . __eou__
+Source 4:  minute later when he stands up to leave ... collapses . __eou__
+Truth 4: it feels like someone 's sitting on my chest . __eou__
+Sample 4: he 's gonna be fine . __eou__
+[00_10_12] Epoch: 0, Update: 9250, Cost: 26.2057723999, UD 0.994663953781
+[00_14_14] Epoch: 0, Update: 9500, Cost: 28.001241684, UD 0.885931015015
+[00_18_21] Epoch: 0, Update: 9750, Cost: 28.1353569031, UD 0.935361862183
+[00_22_27] Epoch: 0, Update: 10000, Cost: 27.3335075378, UD 0.967715024948
+Saving...
+Done
+[00_26_38] Epoch: 0, Update: 10250, Cost: 33.7791862488, UD 0.93190407753
+[00_30_40] Epoch: 0, Update: 10500, Cost: 26.9129676819, UD 0.969852209091
+Source 0:  well , not according to his phone records . __eou__
+Truth 0: about three weeks ago , __eou__
+Sample 0: i think he 's a little bit UNK . __eou__
+Source 1:  about three weeks ago , __eou__
+Truth 1: jessica lowell started calling justin . __eou__
+Sample 1: that i found in the mud . __eou__
+Source 2:  jessica lowell started calling justin . __eou__
+Truth 2: a lot . __eou__ work calls , i 'd imagine . __eou__
+Sample 2: she didn 't have any UNK . __eou__
+Source 3:  a lot . __eou__ work calls , i 'd imagine . __eou__
+Truth 3: most of the calls here __eou__
+Sample 3: i think he 's gonna be fine . __eou__
+Source 4:  most of the calls here __eou__
+Truth 4: are after work , after midnight , in fact . __eou__
+Sample 4: and i 'm not sure about the UNK . __eou__
+[00_34_45] Epoch: 0, Update: 10750, Cost: 17.6459541321, UD 0.838317155838
+[00_38_51] Epoch: 0, Update: 11000, Cost: 33.5580062866, UD 1.02368187904
+[00_42_56] Epoch: 0, Update: 11250, Cost: 32.5692825317, UD 0.9740421772
+[00_46_59] Epoch: 0, Update: 11500, Cost: 26.91157341, UD 0.978736162186
+[00_51_06] Epoch: 0, Update: 11750, Cost: 33.3050842285, UD 1.00536179543
+[00_55_13] Epoch: 0, Update: 12000, Cost: 27.5491409302, UD 1.02012205124
+Source 0:  what ? __eou__ ! __eou__ oh , my god . __eou__
+Truth 0: peter , our little girl is doing pornography ! __eou__
+Sample 0: oh , my god ! __eou__
+Source 1:  peter , our little girl is doing pornography ! __eou__
+Truth 1: we got to stop her ! __eou__ what the hell ? __eou__
+Sample 1: oh , my god ! __eou__
+Source 2:  we got to stop her ! __eou__ what the hell ? __eou__
+Truth 2: there 's an animated version of you and me doing it . __eou__
+Sample 2: we got to stop her . __eou__
+Source 3:  there 's an animated version of you and me doing it . __eou__
+Truth 3: who put that on there ? __eou__
+Sample 3: i 'm going to take her to the airport . __eou__
+Source 4:  who put that on there ? __eou__
+Truth 4: __eou__
+Sample 4: i 'm going to take her to the airport . __eou__
+[00_59_21] Epoch: 0, Update: 12250, Cost: 28.3200302124, UD 0.995993852615
+[01_03_25] Epoch: 0, Update: 12500, Cost: 26.2984333038, UD 0.987776041031
+[01_07_32] Epoch: 0, Update: 12750, Cost: 29.7405776978, UD 1.00965285301
+[01_11_41] Epoch: 0, Update: 13000, Cost: 29.0811195374, UD 1.03169202805
+[01_15_49] Epoch: 0, Update: 13250, Cost: 27.3288249969, UD 0.794305801392
+[01_19_55] Epoch: 0, Update: 13500, Cost: 23.4595298767, UD 0.972235918045
+Source 0:  no one cares . __eou__
+Truth 0: once more , new objectives mean __eou__
+Sample 0: you know , you 're a real UNK . __eou__
+Source 1:  once more , new objectives mean __eou__
+Truth 1: betting on a new direction . __eou__
+Sample 1: i can 't believe you 're still in the UNK . __eou__
+Source 2:  betting on a new direction . __eou__
+Truth 2: UNK market share . __eou__
+Sample 2: UNK . __eou__
+Source 3:  UNK market share . __eou__
+Truth 3: as UNK here , in this slide . __eou__
+Sample 3: UNK . __eou__
+Source 4:  as UNK here , in this slide . __eou__
+Truth 4: we 're number one . __eou__
+Sample 4: UNK . __eou__
+[01_24_01] Epoch: 0, Update: 13750, Cost: 25.3705196381, UD 0.984966993332
+[01_28_09] Epoch: 0, Update: 14000, Cost: 34.308429718, UD 0.992552995682
+[01_32_13] Epoch: 0, Update: 14250, Cost: 27.1113510132, UD 0.92312502861
+[01_36_21] Epoch: 0, Update: 14500, Cost: 30.342672348, UD 1.01432299614
+[01_40_25] Epoch: 0, Update: 14750, Cost: 29.3205051422, UD 1.01113605499
+[01_44_32] Epoch: 0, Update: 15000, Cost: 22.7641086578, UD 0.97522687912
+Saving...
+Done
+Source 0:  you 're alive . __eou__
+Truth 0: so are you . __eou__
+Sample 0: __eou__
+Source 1:  so are you . __eou__
+Truth 1: the virus is still out there . __eou__
+Sample 1: __eou__
+Source 2:  the virus is still out there . __eou__
+Truth 2: 12 monkeys got their hands on it somehow . __eou__
+Sample 2: __eou__
+Source 3:  12 monkeys got their hands on it somehow . __eou__
+Truth 3: but we destroyed UNK in UNK . __eou__
+Sample 3: __eou__
+Source 4:  but we destroyed UNK in UNK . __eou__
+Truth 4: we burned it , all of it . __eou__
+Sample 4: __eou__
+Train: 22.7641086578 Val: 33.2794685364 ValPerp: 24.7286977369
+Seen 1920000 samples
+[02_05_04] Epoch: 0, Update: 15250, Cost: 28.7883853912, UD 1.02116918564
+[02_09_09] Epoch: 0, Update: 15500, Cost: 28.8624362946, UD 0.999191999435
+[02_13_15] Epoch: 0, Update: 15750, Cost: 30.1596908569, UD 1.01496005058
+[02_17_24] Epoch: 0, Update: 16000, Cost: 34.9771080017, UD 0.885377168655
+[02_21_32] Epoch: 0, Update: 16250, Cost: 27.3940181732, UD 0.980995893478
+[02_25_39] Epoch: 0, Update: 16500, Cost: 22.4985408783, UD 0.970659017563
+Source 0:  let 's move it . __eou__
+Truth 0: sir . __eou__
+Sample 0: __eou__
+Source 1:  sir . __eou__
+Truth 1: bring it in boys . __eou__
+Sample 1: we got a UNK . __eou__
+Source 2:  bring it in boys . __eou__
+Truth 2: the military base was UNK last year __eou__
+Sample 2: __eou__
+Source 3:  the military base was UNK last year __eou__
+Truth 3: but UNK is still the c.o. __eou__
+Sample 3: and the UNK are still in the same position . __eou__
+Source 4:  but UNK is still the c.o. __eou__
+Truth 4: they 're in two sets of blocking positions , __eou__
+Sample 4: the first step is UNK . __eou__
+[02_29_45] Epoch: 0, Update: 16750, Cost: 34.2772674561, UD 1.02597904205
+[02_33_51] Epoch: 0, Update: 17000, Cost: 22.0170021057, UD 0.928678035736
+[02_38_00] Epoch: 0, Update: 17250, Cost: 36.0057830811, UD 0.870488166809
+[02_42_00] Epoch: 0, Update: 17500, Cost: 24.0401000977, UD 1.01776385307
+[02_46_03] Epoch: 0, Update: 17750, Cost: 27.554227829, UD 1.01295495033
+[02_50_10] Epoch: 0, Update: 18000, Cost: 32.1808128357, UD 0.995927095413
+Source 0:  didn 't happen to look like him , did it ? __eou__
+Truth 0: you know who that is though . __eou__
+Sample 0: you know , i think i 'm gonna have to go . __eou__
+Source 1:  you know who that is though . __eou__
+Truth 1: yeah . __eou__
+Sample 1: you know , i 've never seen you eat that before . __eou__
+Source 2:  yeah . __eou__
+Truth 2: did you know joey UNK was partners with trevor ? __eou__
+Sample 2: you know , i 'm not sure i 'm gonna like you . __eou__
+Source 3:  did you know joey UNK was partners with trevor ? __eou__
+Truth 3: is that who paid you a visit ? __eou__
+Sample 3: you know , i think he was . __eou__
+Source 4:  is that who paid you a visit ? __eou__
+Truth 4: he came in . __eou__ he tore my place apart . __eou__
+Sample 4: you know , i 'm not sure i 'm gonna like that . __eou__
+[02_54_17] Epoch: 0, Update: 18250, Cost: 26.6450233459, UD 1.02347993851
+[02_58_23] Epoch: 0, Update: 18500, Cost: 30.5186042786, UD 0.959957838058
+[03_02_34] Epoch: 0, Update: 18750, Cost: 26.0892047882, UD 0.99147105217
+[03_06_39] Epoch: 0, Update: 19000, Cost: 19.9369258881, UD 1.02234387398
+[03_10_45] Epoch: 0, Update: 19250, Cost: 28.3456611633, UD 1.00586009026
+[03_14_51] Epoch: 0, Update: 19500, Cost: 29.1935596466, UD 0.976832866669
+Source 0:  it 's actually gone . __eou__
+Truth 0: i had the surgery . __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  i had the surgery . __eou__
+Truth 1: get out . __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  get out . __eou__
+Truth 2: that 's fantastic . __eou__
+Sample 2: __eou__
+Source 3:  that 's fantastic . __eou__
+Truth 3: i thought i was gonna get a phone call __eou__
+Sample 3: i 'm sorry . __eou__
+Source 4:  i thought i was gonna get a phone call __eou__
+Truth 4: after the old snip snip , 'cause we talked about that , but ... __eou__
+Sample 4: 'cause i was gonna say that . __eou__
+[03_18_54] Epoch: 0, Update: 19750, Cost: 29.3317985535, UD 0.981516838074
+[03_22_55] Epoch: 0, Update: 20000, Cost: 31.1546096802, UD 1.05261898041
+Saving...
+Done
+[03_27_08] Epoch: 0, Update: 20250, Cost: 31.31133461, UD 0.973191022873
+[03_31_13] Epoch: 0, Update: 20500, Cost: 25.0933074951, UD 0.966069936752
+[03_35_17] Epoch: 0, Update: 20750, Cost: 28.0987911224, UD 0.980289936066
+[03_39_19] Epoch: 0, Update: 21000, Cost: 34.2441139221, UD 0.98953294754
+Source 0:  we 're not there yet . __eou__ UNK . __eou__
+Truth 0: we 're not UNK but youse are . __eou__
+Sample 0: UNK . __eou__  UNK . __eou__
+Source 1:  we 're not UNK but youse are . __eou__
+Truth 1: the brits are talking about a serious ... __eou__
+Sample 1: you 're gonna need to talk to UNK . __eou__
+Source 2:  the brits are talking about a serious ... __eou__
+Truth 2: a document of surrender . __eou__ that 's what 's on the table . __eou__
+Sample 2: you 're gonna need to talk to UNK . __eou__
+Source 3:  a document of surrender . __eou__ that 's what 's on the table . __eou__
+Truth 3: the brits are talking about a serious response __eou__
+Sample 3: UNK . __eou__  UNK . __eou__
+Source 4:  the brits are talking about a serious response __eou__
+Truth 4: to any gesture we make . __eou__  lt 's a document of surrender . __eou__
+Sample 4: when you 're in a UNK . __eou__
+[03_43_22] Epoch: 0, Update: 21250, Cost: 37.9575881958, UD 1.0238878727
+[03_47_31] Epoch: 0, Update: 21500, Cost: 21.7939720154, UD 1.03428602219
+[03_51_39] Epoch: 0, Update: 21750, Cost: 25.8647918701, UD 0.933176994324
+[03_55_49] Epoch: 0, Update: 22000, Cost: 22.5403385162, UD 0.97635602951
+[03_59_57] Epoch: 0, Update: 22250, Cost: 24.5423069, UD 0.99796795845
+[04_04_04] Epoch: 0, Update: 22500, Cost: 29.5418987274, UD 0.964146852493
+Source 0:  my mum has had the laser . __eou__ it 's been unbelievable . __eou__
+Truth 0: the glasses were a big part of the problem . __eou__
+Sample 0: it 's been a while . __eou__
+Source 1:  the glasses were a big part of the problem . __eou__
+Truth 1: that 's how the harry potter stuff came up in the first place . __eou__
+Sample 1: i think we 've been through worse . __eou__
+Source 2:  that 's how the harry potter stuff came up in the first place . __eou__
+Truth 2: cleaver greene is how the fucking harry potter stuff came up . __eou__
+Sample 2: it was the UNK thing that happened to me . __eou__
+Source 3:  cleaver greene is how the fucking harry potter stuff came up . __eou__
+Truth 3: pumping dance music __eou__
+Sample 3: he was a UNK . __eou__
+Source 4:  pumping dance music __eou__
+Truth 4: lord , we commend into your hands __eou__
+Sample 4: i 'm not going to let you down . __eou__
+[04_08_15] Epoch: 0, Update: 22750, Cost: 23.2153263092, UD 0.956615924835
+[04_12_21] Epoch: 0, Update: 23000, Cost: 45.9471855164, UD 0.852191925049
+[04_16_26] Epoch: 0, Update: 23250, Cost: 30.1791610718, UD 0.97401881218
+[04_20_29] Epoch: 0, Update: 23500, Cost: 28.0927734375, UD 0.998133897781
+[04_24_33] Epoch: 0, Update: 23750, Cost: 29.0049629211, UD 1.01492190361
+[04_28_39] Epoch: 0, Update: 24000, Cost: 22.4097576141, UD 0.9975669384
+Source 0:  just so you can annoy someone , huh . __eou__
+Truth 0: come here . __eou__
+Sample 0: i 'm not a UNK . __eou__
+Source 1:  come here . __eou__
+Truth 1: go with him . __eou__
+Sample 1: i 'm not hungry . __eou__
+Source 2:  go with him . __eou__
+Truth 2: i don ? __eou__ like . __eou__
+Sample 2: i 'm not going to kill you . __eou__
+Source 3:  i don ? __eou__ like . __eou__
+Truth 3: he gave me 5 thou . __eou__
+Sample 3: i 'm not gonna let you go . __eou__
+Source 4:  he gave me 5 thou . __eou__
+Truth 4: do you want me to give you some portion of it . __eou__
+Sample 4: i 'm sorry . __eou__
+[04_32_47] Epoch: 0, Update: 24250, Cost: 33.9224853516, UD 0.970435142517
+[04_36_55] Epoch: 0, Update: 24500, Cost: 30.3537597656, UD 1.03201508522
+[04_41_03] Epoch: 0, Update: 24750, Cost: 28.478345871, UD 1.00147294998
+[04_45_05] Epoch: 0, Update: 25000, Cost: 42.5929336548, UD 0.959189176559
+Saving...
+Done
+[04_49_21] Epoch: 0, Update: 25250, Cost: 27.9111671448, UD 0.99111700058
+[04_53_31] Epoch: 0, Update: 25500, Cost: 27.0681686401, UD 1.01824688911
+Source 0:  hey , cruz . __eou__
+Truth 0: i can 't figure this . __eou__
+Sample 0: oh , i 'm so glad you 're back . __eou__
+Source 1:  i can 't figure this . __eou__
+Truth 1: why the hell would you go through all that to protect me ? __eou__
+Sample 1: i 'm not gonna be able to get back to that motel . __eou__
+Source 2:  why the hell would you go through all that to protect me ? __eou__
+Truth 2: i don 't rat out cops . __eou__
+Sample 2: i 'm not gonna let you go . __eou__
+Source 3:  i don 't rat out cops . __eou__
+Truth 3: look , we 're not friends . __eou__
+Sample 3: i don 't know what you 're talking about . __eou__
+Source 4:  look , we 're not friends . __eou__
+Truth 4: i don 't even like you . __eou__
+Sample 4: i don 't know what you 're talking about . __eou__
+[04_57_35] Epoch: 0, Update: 25750, Cost: 26.8706626892, UD 1.01652097702
+[05_01_44] Epoch: 0, Update: 26000, Cost: 29.9085063934, UD 1.00129795074
+[05_05_44] Epoch: 0, Update: 26250, Cost: 30.0951824188, UD 0.975840091705
+[05_09_51] Epoch: 0, Update: 26500, Cost: 29.4603996277, UD 0.952677965164
+[05_13_56] Epoch: 0, Update: 26750, Cost: 28.612827301, UD 0.926787853241
+[05_18_01] Epoch: 0, Update: 27000, Cost: 32.6000823975, UD 1.01286411285
+Source 0:  no , no , actually , he doesn 't . __eou__
+Truth 0: huh , ' cause i got this ... __eou__  oh , cool . __eou__
+Sample 0: i 'm not allowed to have sex with him . __eou__
+Source 1:  huh , ' cause i got this ... __eou__  oh , cool . __eou__
+Truth 1: the day after i brought her home , __eou__
+Sample 1: i 'm not doing this for you . __eou__
+Source 2:  the day after i brought her home , __eou__
+Truth 2: but you have some ava ink on you . __eou__
+Sample 2: i 'm not sure what you 're doing here . __eou__
+Source 3:  but you have some ava ink on you . __eou__
+Truth 3: no , no , he doesn 't have that , either . __eou__
+Sample 3: i 'm not sure what you 're doing here . __eou__
+Source 4:  no , no , he doesn 't have that , either . __eou__
+Truth 4: i have this , __eou__
+Sample 4: i 'm not doing this for you . __eou__
+[05_22_13] Epoch: 0, Update: 27250, Cost: 29.3865756989, UD 0.836617946625
+[05_26_20] Epoch: 0, Update: 27500, Cost: 35.2680892944, UD 1.01764917374
+[05_30_45] Epoch: 0, Update: 27750, Cost: 25.940574646, UD 1.03612494469
+[05_35_10] Epoch: 0, Update: 28000, Cost: 28.4976711273, UD 0.98354101181
+[05_39_35] Epoch: 0, Update: 28250, Cost: 20.7681446075, UD 1.01111102104
+[05_43_51] Epoch: 0, Update: 28500, Cost: 28.4699192047, UD 0.920805931091
+Source 0:  the owl 's song , the UNK __eou__
+Truth 0: girl , __eou__
+Sample 0: the UNK __eou__
+Source 1:  girl , __eou__
+Truth 1: girl , such calm is a bad omen __eou__  mom , __eou__
+Sample 1: __eou__
+Source 2:  girl , such calm is a bad omen __eou__  mom , __eou__
+Truth 2: there is nothing bad in the forest . __eou__
+Sample 2: you are a good man __eou__
+Source 3:  there is nothing bad in the forest . __eou__
+Truth 3: miranda , there is only jungle here __eou__
+Sample 3: UNK __eou__
+Source 4:  miranda , there is only jungle here __eou__
+Truth 4: these are the things from those books that teach nothing good to you __eou__
+Sample 4: you are a UNK __eou__
+[05_47_59] Epoch: 0, Update: 28750, Cost: 22.0626296997, UD 0.940444946289
+[05_52_01] Epoch: 0, Update: 29000, Cost: 27.4187393188, UD 1.00138998032
+[05_56_04] Epoch: 0, Update: 29250, Cost: 24.4277572632, UD 0.918045043945
+[06_00_15] Epoch: 0, Update: 29500, Cost: 33.6090202332, UD 1.02690410614
+[06_04_21] Epoch: 0, Update: 29750, Cost: 29.4999809265, UD 1.02894091606
+[06_08_37] Epoch: 0, Update: 30000, Cost: 28.1624107361, UD 0.975003957748
+Saving...
+Done
+Source 0:  plus i have reservations at the grownups ' table . __eou__ peace out . __eou__
+Truth 0: jameson :  trusted news source j . __eou__ jonah jameson here ... __eou__
+Sample 0: i 'm sure you 'll be happy . __eou__
+Source 1:  jameson :  trusted news source j . __eou__ jonah jameson here ... __eou__
+Truth 1: this is it ? __eou__ we 're playing cards ? __eou__
+Sample 1: and the UNK UNK . __eou__
+Source 2:  this is it ? __eou__ we 're playing cards ? __eou__
+Truth 2: it ain 't cards , it 's poker . __eou__
+Sample 2: __eou__
+Source 3:  it ain 't cards , it 's poker . __eou__
+Truth 3: jameson : ... __eou__ green goliath the hulk is even worse ... __eou__
+Sample 3: __eou__
+Source 4:  jameson : ... __eou__ green goliath the hulk is even worse ... __eou__
+Truth 4: grab a chair , UNK , and i 'll deal you in . __eou__
+Sample 4: and the hulk is worse ... __eou__
+Train: 28.1624107361 Val: 32.9541015625 ValPerp: 23.965146982
+Seen 3840000 samples
+[06_29_12] Epoch: 0, Update: 30250, Cost: 26.5827140808, UD 1.01583719254
+[06_33_21] Epoch: 0, Update: 30500, Cost: 32.2425079346, UD 1.03396201134
+[06_37_26] Epoch: 0, Update: 30750, Cost: 23.0065670013, UD 0.882344007492
+[06_41_30] Epoch: 0, Update: 31000, Cost: 24.1769390106, UD 1.0186560154
+[06_45_35] Epoch: 0, Update: 31250, Cost: 28.345746994, UD 1.01153302193
+[06_49_44] Epoch: 0, Update: 31500, Cost: 37.606338501, UD 1.02289390564
+Source 0:  that may be in your previous birth ; __eou__
+Truth 0: telling your love story ; __eou__
+Sample 0: i will come and visit you ; __eou__
+Source 1:  telling your love story ; __eou__
+Truth 1: by attracting , get their permission ; __eou__
+Sample 1: i will come and visit you ; __eou__
+Source 2:  by attracting , get their permission ; __eou__
+Truth 2: i will manage other things ... go __eou__
+Sample 2: i will come and visit you ; __eou__
+Source 3:  i will manage other things ... go __eou__
+Truth 3: UNK , UNK , some one go and open the door . __eou__
+Sample 3: i will come and come __eou__
+Source 4:  UNK , UNK , some one go and open the door . __eou__
+Truth 4: hai ! __eou__ i am UNK ; __eou__
+Sample 4: i will come and see you soon ; __eou__
+[06_53_50] Epoch: 0, Update: 31750, Cost: 31.2800483704, UD 0.977792024612
+[06_57_52] Epoch: 0, Update: 32000, Cost: 23.8779773712, UD 1.01347088814
+[07_01_59] Epoch: 0, Update: 32250, Cost: 30.0817642212, UD 1.03957891464
+[07_06_07] Epoch: 0, Update: 32500, Cost: 35.7634391785, UD 1.02677989006
+[07_10_04] Epoch: 0, Update: 32750, Cost: 33.9855194092, UD 0.970459938049
+[07_14_12] Epoch: 0, Update: 33000, Cost: 28.5267047882, UD 0.998188018799
+Source 0:  # don 't give me a miss # __eou__
+Truth 0: # lt 's time to get down to business ... # __eou__
+Sample 0: # the way you walk __eou__
+Source 1:  # lt 's time to get down to business ... # __eou__
+Truth 1: # beatrice , ain 't no way f UNK to reach her # __eou__
+Sample 1: # UNK # __eou__
+Source 2:  # beatrice , ain 't no way f UNK to reach her # __eou__
+Truth 2: # you promised me the world a long time ago # __eou__
+Sample 2: # UNK , ain 't no way no one to reach her # __eou__
+Source 3:  # you promised me the world a long time ago # __eou__
+Truth 3: # UNK zero , # __eou__
+Sample 3: # you promised me a long time ago # __eou__
+Source 4:  # UNK zero , # __eou__
+Truth 4: # UNK # __eou__
+Sample 4: # UNK # __eou__
+[07_18_19] Epoch: 0, Update: 33250, Cost: 24.0800552368, UD 1.02312207222
+[07_22_26] Epoch: 0, Update: 33500, Cost: 21.3471088409, UD 0.881282091141
+[07_26_35] Epoch: 0, Update: 33750, Cost: 28.0637588501, UD 1.0592148304
+[07_30_42] Epoch: 0, Update: 34000, Cost: 20.1754360199, UD 1.01776909828
+[07_34_59] Epoch: 0, Update: 34250, Cost: 35.5639839172, UD 1.00457596779
+[07_39_06] Epoch: 0, Update: 34500, Cost: 19.2740840912, UD 1.02121710777
+Source 0:  you hungry ? __eou__
+Truth 0: no , but she is . __eou__
+Sample 0: i don 't know . __eou__
+Source 1:  no , but she is . __eou__
+Truth 1: okay , it 's UNK , all right ? __eou__
+Sample 1: you know , i don 't know . __eou__
+Source 2:  okay , it 's UNK , all right ? __eou__
+Truth 2: not UNK . __eou__
+Sample 2: you don 't know what i 'm talking about . __eou__
+Source 3:  not UNK . __eou__
+Truth 3: not even a little . __eou__
+Sample 3: you know , i think i 've got a little something here . __eou__
+Source 4:  not even a little . __eou__
+Truth 4: come on . __eou__
+Sample 4: i 'm not going . __eou__
+[07_43_11] Epoch: 0, Update: 34750, Cost: 13.4985876083, UD 0.886895895004
+[07_47_14] Epoch: 0, Update: 35000, Cost: 29.7724056244, UD 0.967147111893
+Saving...
+Done
+[07_51_26] Epoch: 0, Update: 35250, Cost: 34.2503471375, UD 1.01543807983
+[07_55_30] Epoch: 0, Update: 35500, Cost: 27.7374782562, UD 1.02339601517
+[07_59_37] Epoch: 0, Update: 35750, Cost: 26.6529808044, UD 0.924573898315
+[08_03_44] Epoch: 0, Update: 36000, Cost: 33.1970787048, UD 0.981131792068
+Source 0:  financial information , technical information , __eou__
+Truth 0: military data , coded national secrets . __eou__
+Sample 0: in a UNK environment . __eou__
+Source 1:  military data , coded national secrets . __eou__
+Truth 1: it 's the equivalent of   billions . __eou__
+Sample 1: to be a UNK . __eou__
+Source 2:  it 's the equivalent of   billions . __eou__
+Truth 2: no , quickly in my head , i 'd have to say __eou__
+Sample 2: UNK . __eou__
+Source 3:  no , quickly in my head , i 'd have to say __eou__
+Truth 3: UNK of dollars worth of information . __eou__
+Sample 3: to UNK the UNK . __eou__
+Source 4:  UNK of dollars worth of information . __eou__
+Truth 4: gentlemen  __eou__  i 'm not sure a value __eou__
+Sample 4: to be a UNK . __eou__
+[08_07_50] Epoch: 0, Update: 36250, Cost: 23.9904232025, UD 0.877576828003
+[08_11_55] Epoch: 0, Update: 36500, Cost: 19.8345508575, UD 0.967983961105
+[08_15_58] Epoch: 0, Update: 36750, Cost: 27.0302696228, UD 0.957424163818
+[08_20_02] Epoch: 0, Update: 37000, Cost: 22.8396987915, UD 0.95405292511
+[08_24_08] Epoch: 0, Update: 37250, Cost: 24.9441184998, UD 1.01424002647
+[08_28_17] Epoch: 0, Update: 37500, Cost: 33.6289367676, UD 0.963950157166
+Source 0:  yeah , but you would say that , __eou__
+Truth 0: because your job is on the line . __eou__  __eou__
+Sample 0: if you don 't want to do it . __eou__
+Source 1:  because your job is on the line . __eou__  __eou__
+Truth 1: why don 't we give animals an ultimatum ? __eou__
+Sample 1: and i 'm not gonna say anything about it . __eou__
+Source 2:  why don 't we give animals an ultimatum ? __eou__
+Truth 2: " either do something useful , or piss off . " __eou__
+Sample 2: i mean , they 're not gonna be able to do it . __eou__
+Source 3:  " either do something useful , or piss off . " __eou__
+Truth 3: which animals do you want to say that to ? __eou__
+Sample 3: " what do you think ? " __eou__
+Source 4:  which animals do you want to say that to ? __eou__
+Truth 4: to animals , all the animals that ain 't doing something useful . __eou__
+Sample 4: and we can 't do it in the hands of a man . __eou__
+[08_32_24] Epoch: 0, Update: 37750, Cost: 23.5144233704, UD 0.69764995575
+[08_36_28] Epoch: 0, Update: 38000, Cost: 28.4820022583, UD 0.798463106155
+[08_40_34] Epoch: 0, Update: 38250, Cost: 23.7852115631, UD 1.00331187248
+[08_44_38] Epoch: 0, Update: 38500, Cost: 26.0558395386, UD 0.790432929993
+[08_48_45] Epoch: 0, Update: 38750, Cost: 25.3076648712, UD 0.917418003082
+[08_52_52] Epoch: 0, Update: 39000, Cost: 18.6338157654, UD 1.01413702965
+Source 0:  i 'll tell you what 's really awesome . __eou__
+Truth 0: the way you guys look . __eou__
+Sample 0: i 'll take you to the hospital . __eou__
+Source 1:  the way you guys look . __eou__
+Truth 1: i mean , you 're pretty , you know ... nice . __eou__
+Sample 1: i 'm not going to get you out of here . __eou__
+Source 2:  i mean , you 're pretty , you know ... nice . __eou__
+Truth 2: ok . __eou__ get out . __eou__
+Sample 2: i mean , you 're pretty . __eou__
+Source 3:  ok . __eou__ get out . __eou__
+Truth 3: what ? __eou__
+Sample 3: i 'll take you to the hospital . __eou__
+Source 4:  what ? __eou__
+Truth 4: out . __eou__
+Sample 4: i 'm not going to get you out of here . __eou__
+[08_57_00] Epoch: 1, Update: 39250, Cost: 30.1817893982, UD 0.973836898804
+[09_01_09] Epoch: 1, Update: 39500, Cost: 29.9201126099, UD 1.01440310478
+[09_05_17] Epoch: 1, Update: 39750, Cost: 22.6601104736, UD 1.02447795868
+[09_09_25] Epoch: 1, Update: 40000, Cost: 29.9264431, UD 0.927439928055
+Saving...
+Done
+[09_13_34] Epoch: 1, Update: 40250, Cost: 23.184709549, UD 1.01175999641
+[09_17_35] Epoch: 1, Update: 40500, Cost: 33.6204795837, UD 0.949621915817
+Source 0:  " to your heart ... " __eou__
+Truth 0: " asking for UNK , ruining your life ... " __eou__
+Sample 0: " UNK , UNK ... " __eou__
+Source 1:  " asking for UNK , ruining your life ... " __eou__
+Truth 1: " UNK , UNK ... " __eou__
+Sample 1: " UNK , UNK , UNK " __eou__
+Source 2:  " UNK , UNK ... " __eou__
+Truth 2: " UNK " __eou__
+Sample 2: " UNK , UNK ... " __eou__
+Source 3:  " UNK " __eou__
+Truth 3: " it 's my heart i 'm hostage to " __eou__
+Sample 3: " UNK , UNK , UNK " __eou__
+Source 4:  " it 's my heart i 'm hostage to " __eou__
+Truth 4: " UNK ... " __eou__
+Sample 4: " UNK , UNK " __eou__
+[09_21_43] Epoch: 1, Update: 40750, Cost: 43.2220077515, UD 0.980448007584
+[09_25_48] Epoch: 1, Update: 41000, Cost: 32.6016654968, UD 1.00067687035
+[09_29_49] Epoch: 1, Update: 41250, Cost: 22.6296215057, UD 1.02923202515
+[09_33_52] Epoch: 1, Update: 41500, Cost: 21.588476181, UD 0.772587060928
+[09_37_59] Epoch: 1, Update: 41750, Cost: 38.7173652649, UD 0.985496044159
+[09_42_06] Epoch: 1, Update: 42000, Cost: 25.2805137634, UD 0.984404802322
+Source 0:  it 's all right . __eou__   __eou__
+Truth 0: i don 't usually just sit at bars __eou__
+Sample 0: you know , you don 't have to say it . __eou__
+Source 1:  i don 't usually just sit at bars __eou__
+Truth 1: listening to strangers ' conversations , __eou__
+Sample 1: and i don 't think you should get in touch with me . __eou__
+Source 2:  listening to strangers ' conversations , __eou__
+Truth 2: i just , um , i 'm locked out of my building __eou__
+Sample 2: and i 'm gonna get you out of here . __eou__
+Source 3:  i just , um , i 'm locked out of my building __eou__
+Truth 3: and i 'm waiting for my sister to bring the extra key , so ... __eou__
+Sample 3: and i just wanted to say , you know , __eou__
+Source 4:  i buried a spare key in my front yard . __eou__
+Truth 4: how did you remember where it was , though ? __eou__
+Sample 4: you know , you 're gonna be in my office __eou__
+[09_46_13] Epoch: 1, Update: 42250, Cost: 31.892124176, UD 0.972131967545
+[09_50_22] Epoch: 1, Update: 42500, Cost: 25.4516239166, UD 1.01189899445
+[09_54_28] Epoch: 1, Update: 42750, Cost: 30.9228534698, UD 1.02622294426
+[09_58_31] Epoch: 1, Update: 43000, Cost: 27.3367233276, UD 1.03121900558
+[10_02_37] Epoch: 1, Update: 43250, Cost: 29.4501609802, UD 0.93478012085
+[10_06_46] Epoch: 1, Update: 43500, Cost: 24.9111881256, UD 1.01401495934
+Source 0:  stuff of legend . __eou__ where you headed ? __eou__
+Truth 0: UNK . __eou__
+Sample 0: __eou__
+Source 1:  UNK . __eou__
+Truth 1: anna and i are moving in together . __eou__
+Sample 1: __eou__
+Source 2:  anna and i are moving in together . __eou__
+Truth 2: really ? __eou__ that 's fantastic ! __eou__ congratulations , buddy . __eou__
+Sample 2: __eou__
+Source 3:  really ? __eou__ that 's fantastic ! __eou__ congratulations , buddy . __eou__
+Truth 3: yeah . __eou__ yeah , i guess . __eou__
+Sample 3: __eou__
+Source 4:  yeah . __eou__ yeah , i guess . __eou__
+Truth 4: enjoy your youth , __eou__
+Sample 4: __eou__
+[10_10_53] Epoch: 1, Update: 43750, Cost: 27.8365840912, UD 1.02565693855
+[10_15_01] Epoch: 1, Update: 44000, Cost: 35.7875022888, UD 0.854382038116
+[10_19_08] Epoch: 1, Update: 44250, Cost: 32.1310997009, UD 0.960198879242
+[10_23_14] Epoch: 1, Update: 44500, Cost: 31.4667320251, UD 1.01788902283
+[10_27_23] Epoch: 1, Update: 44750, Cost: 22.5656471252, UD 0.970679998398
+[10_31_28] Epoch: 1, Update: 45000, Cost: 31.0468959808, UD 1.04004502296
+Saving...
+Done
+Source 0:  at least you won 't be bugging me for long . __eou__
+Truth 0: you know , john , you got it all wrong . __eou__
+Sample 0: i 'm not a UNK . __eou__
+Source 1:  you know , john , you got it all wrong . __eou__
+Truth 1: i mean , running 's great . __eou__
+Sample 1: you 're a good guy , though . __eou__
+Source 2:  i mean , running 's great . __eou__
+Truth 2: i miss it . __eou__
+Sample 2: you 're not a baby . __eou__
+Source 3:  i miss it . __eou__
+Truth 3: it was always good for UNK sexual tension too . __eou__
+Sample 3: i 'm not a virgin . __eou__
+Source 4:  it was always good for UNK sexual tension too . __eou__
+Truth 4: yeah , what do you do about that now ? __eou__
+Sample 4: i 'm not a UNK . __eou__
+Train: 31.0468959808 Val: 33.0485649109 ValPerp: 24.1843632053
+Seen 759936 samples
+[10_52_17] Epoch: 1, Update: 45250, Cost: 27.9119853973, UD 1.03732085228
+[10_56_28] Epoch: 1, Update: 45500, Cost: 27.2471294403, UD 1.016477108
+[11_00_37] Epoch: 1, Update: 45750, Cost: 26.0371665955, UD 1.06023406982
+[11_04_46] Epoch: 1, Update: 46000, Cost: 31.5131664276, UD 0.972974061966
+[11_08_57] Epoch: 1, Update: 46250, Cost: 24.0619068146, UD 1.07250404358
+[11_13_03] Epoch: 1, Update: 46500, Cost: 25.6879863739, UD 1.0377600193
+Source 0:  your tank top was UNK and UNK __eou__
+Truth 0: with those pants which were also questionable __eou__
+Sample 0: for you . __eou__
+Source 1:  with those pants which were also questionable __eou__
+Truth 1: in terms of color , construction , and fabric choice . __eou__
+Sample 1: in terms of color , __eou__
+Source 2:  in terms of color , construction , and fabric choice . __eou__
+Truth 2: amy , your strange UNK was a disappointment . __eou__
+Sample 2: you 're in . __eou__
+Source 3:  amy , your strange UNK was a disappointment . __eou__
+Truth 3: from the color to the UNK cut , __eou__
+Sample 3: i 'm not sure that 's what you 're doing . __eou__
+Source 4:  from the color to the UNK cut , __eou__
+Truth 4: it was bad retro . __eou__
+Sample 4: that you 're in . __eou__
+[11_17_11] Epoch: 1, Update: 46750, Cost: 35.5715179443, UD 0.899250984192
+[11_21_15] Epoch: 1, Update: 47000, Cost: 25.9714412689, UD 0.995035886765
+[11_25_22] Epoch: 1, Update: 47250, Cost: 30.5297889709, UD 1.03378105164
+[11_29_32] Epoch: 1, Update: 47500, Cost: 20.7026901245, UD 0.972926855087
+[11_33_38] Epoch: 1, Update: 47750, Cost: 20.7118835449, UD 0.941498041153
+[11_37_44] Epoch: 1, Update: 48000, Cost: 25.5494365692, UD 0.947448968887
+Source 0:  chance , you told me you were over brenda . __eou__
+Truth 0: look , how many times do i have to tell you ? __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  i saw the texts , chance . __eou__
+Truth 1: you 're saying you went through my phone ? __eou__
+Sample 1: i 'm not gonna do anything . __eou__
+Source 2:  you 're saying you went through my phone ? __eou__
+Truth 2: you lied to me . __eou__  i didn 't lie to you . __eou__
+Sample 2: i 'm not gonna do anything . __eou__
+Source 3:  you lied to me . __eou__  i didn 't lie to you . __eou__
+Truth 3: brenda pushed up on me . __eou__ and i told her  __eou__
+Sample 3: i didn 't lie to you . __eou__  i did . __eou__
+Source 4:  brenda pushed up on me . __eou__ and i told her  __eou__
+Truth 4: told her what , chance ? __eou__ you told her no ? __eou__
+Sample 4: i 'm not gonna lie to you . __eou__
+[11_41_46] Epoch: 1, Update: 48250, Cost: 26.0958194733, UD 1.01911783218
+[11_45_53] Epoch: 1, Update: 48500, Cost: 26.413860321, UD 1.02260088921
+[11_49_55] Epoch: 1, Update: 48750, Cost: 25.9575386047, UD 0.943198919296
+[11_54_03] Epoch: 1, Update: 49000, Cost: 31.4715023041, UD 0.882179021835
+[11_58_07] Epoch: 1, Update: 49250, Cost: 22.9904537201, UD 0.984334945679
+[12_02_10] Epoch: 1, Update: 49500, Cost: 25.1449394226, UD 1.02611804008
+Source 0:  don 't go overboard , you 're a representative of the republic , __eou__
+Truth 0: there must be a reason __eou__
+Sample 0: i 'm here , i 'm here __eou__
+Source 1:  there must be a reason __eou__
+Truth 1: sooner or later we all have to die __eou__
+Sample 1: what are you doing ? __eou__
+Source 2:  sooner or later we all have to die __eou__
+Truth 2: life is a death sentence , there 's no time to waste __eou__
+Sample 2: what 's wrong ? __eou__
+Source 3:  life is a death sentence , there 's no time to waste __eou__
+Truth 3: how do you feel ? __eou__
+Sample 3: what 's wrong ? __eou__
+Source 4:  how do you feel ? __eou__
+Truth 4: terrible , __eou__
+Sample 4: the UNK __eou__
+[12_06_19] Epoch: 1, Update: 49750, Cost: 32.3866844177, UD 1.03271985054
+[12_10_23] Epoch: 1, Update: 50000, Cost: 26.7271080017, UD 1.03470396996
+Saving...
+Done
+[12_14_32] Epoch: 1, Update: 50250, Cost: 29.1721115112, UD 1.00043201447
+[12_18_37] Epoch: 1, Update: 50500, Cost: 25.1788864136, UD 1.02234005928
+[12_22_43] Epoch: 1, Update: 50750, Cost: 20.8281707764, UD 1.02919387817
+[12_26_50] Epoch: 1, Update: 51000, Cost: 24.9390563965, UD 0.993498802185
+Source 0:  pick one ! __eou__
+Truth 0: help me . __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  help me . __eou__
+Truth 1: holly , please ! __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  holly , please ! __eou__
+Truth 2: pick me ! __eou__ save me from the cliff ! __eou__
+Sample 2: i 'm sorry , i 'm sorry . __eou__
+Source 3:  pick me ! __eou__ save me from the cliff ! __eou__
+Truth 3: or ... __eou__
+Sample 3: i 'm sorry , i 'm sorry . __eou__
+Source 4:  or ... __eou__
+Truth 4: yo , holly , dude ... __eou__
+Sample 4: i 'm going to die ! __eou__
+[12_30_57] Epoch: 1, Update: 51250, Cost: 34.1925926208, UD 0.991991043091
+[12_35_01] Epoch: 1, Update: 51500, Cost: 32.063911438, UD 1.00504398346
+[12_39_07] Epoch: 1, Update: 51750, Cost: 30.2192497253, UD 0.986011981964
+[12_43_17] Epoch: 1, Update: 52000, Cost: 39.9917564392, UD 1.02661895752
+[12_47_24] Epoch: 1, Update: 52250, Cost: 26.8279743195, UD 0.918713092804
+[12_51_32] Epoch: 1, Update: 52500, Cost: 26.0187835693, UD 0.964448213577
+Source 0:  what ? __eou__  she 's escaped . __eou__
+Truth 0: that bastard UNK ! __eou__ they 've got her . __eou__
+Sample 0: she 's gone . __eou__
+Source 1:  you 're on your own , pal . __eou__
+Truth 1: ashley ? __eou__
+Sample 1: you 're not going anywhere . __eou__
+Source 2:  ashley ? __eou__
+Truth 2: ashley ! __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  ashley ! __eou__
+Truth 3: shit ! __eou__
+Sample 3: i 'll come back . __eou__
+Source 4:  shit ! __eou__
+Truth 4: shit ! __eou__
+Sample 4: you 're safe . __eou__
+[12_55_43] Epoch: 1, Update: 52750, Cost: 26.0946407318, UD 1.00019907951
+[13_00_04] Epoch: 1, Update: 53000, Cost: 25.4385757446, UD 0.983198881149
+[13_04_19] Epoch: 1, Update: 53250, Cost: 26.9355354309, UD 1.0234708786
+[13_08_59] Epoch: 1, Update: 53500, Cost: 31.3770771027, UD 0.874018907547
+[13_13_07] Epoch: 1, Update: 53750, Cost: 33.7682800293, UD 0.952907085419
+[13_17_14] Epoch: 1, Update: 54000, Cost: 19.2010707855, UD 0.93622803688
+Source 0:  i 'm glad to hear that . __eou__
+Truth 0: one of the magazines __eou__
+Sample 0: __eou__
+Source 1:  one of the magazines __eou__
+Truth 1: i interviewed at in new york __eou__
+Sample 1: the other day . __eou__
+Source 2:  i interviewed at in new york __eou__
+Truth 2: asked me to come work for them . __eou__
+Sample 2: to tell you the same thing . __eou__
+Source 3:  asked me to come work for them . __eou__
+Truth 3: that 's a big change ! __eou__
+Sample 3: oh , yeah . __eou__
+Source 4:  that 's a big change ! __eou__
+Truth 4: well , i may not have a choice . __eou__
+Sample 4: __eou__
+[13_21_18] Epoch: 1, Update: 54250, Cost: 27.7103042603, UD 1.01342105865
+[13_25_31] Epoch: 1, Update: 54500, Cost: 35.4066734314, UD 0.972096204758
+[13_29_38] Epoch: 1, Update: 54750, Cost: 26.2615890503, UD 1.03092908859
+[13_33_47] Epoch: 1, Update: 55000, Cost: 26.209728241, UD 1.01544594765
+Saving...
+Done
+[13_37_57] Epoch: 1, Update: 55250, Cost: 25.7048072815, UD 0.968842983246
+[13_42_07] Epoch: 1, Update: 55500, Cost: 27.4242401123, UD 0.973257064819
+Source 0:  and i don 't sleep . __eou__
+Truth 0: every night , i 'm in pain , pain , pain ! __eou__
+Sample 0: and i 'm going to have to take care of my baby . __eou__
+Source 1:  every night , i 'm in pain , pain , pain ! __eou__
+Truth 1: alright , fifty UNK and that 's it . __eou__
+Sample 1: i 'm going to kill you . __eou__
+Source 2:  alright , fifty UNK and that 's it . __eou__
+Truth 2: fifty UNK . __eou__
+Sample 2: i 'm going to bed . __eou__
+Source 3:  fifty UNK . __eou__
+Truth 3: damn you if you don 't keep your word ! __eou__
+Sample 3: and i 'm going to make a little bit of the pain . __eou__
+Source 4:  damn you if you don 't keep your word ! __eou__
+Truth 4: what does it say there ? __eou__
+Sample 4: i 'm going to kill you . __eou__
+[13_46_14] Epoch: 1, Update: 55750, Cost: 17.8933353424, UD 1.02459192276
+[13_50_22] Epoch: 1, Update: 56000, Cost: 31.948299408, UD 0.902810811996
+[13_54_27] Epoch: 1, Update: 56250, Cost: 25.8247261047, UD 0.927364826202
+[13_58_29] Epoch: 1, Update: 56500, Cost: 29.7491455078, UD 1.0201830864
+[14_02_30] Epoch: 1, Update: 56750, Cost: 27.1256427765, UD 0.983959913254
+[14_06_39] Epoch: 1, Update: 57000, Cost: 28.5441074371, UD 0.970324993134
+Source 0:  and i think we 're all being __eou__
+Truth 0: that much more guarded and that much more picky . __eou__
+Sample 0: for the first time in my life . __eou__
+Source 1:  that much more guarded and that much more picky . __eou__
+Truth 1: and as soon as you came on that stage and i heard ... __eou__
+Sample 1: i 've been a fan of the show . __eou__
+Source 2:  and as soon as you came on that stage and i heard ... __eou__
+Truth 2: i didn 't know what was behind me , __eou__
+Sample 2: i think that 's what i 'm doing . __eou__
+Source 3:  i didn 't know what was behind me , __eou__
+Truth 3: but i heard that UNK little UNK in the low end , __eou__
+Sample 3: i 've been a fan of the show . __eou__
+Source 4:  but i heard that UNK little UNK in the low end , __eou__
+Truth 4: and then you really gave me that UNK up there . __eou__
+Sample 4: and i heard that i 've been in a band . __eou__
+[14_10_47] Epoch: 1, Update: 57250, Cost: 23.4327220917, UD 0.932484149933
+[14_14_53] Epoch: 1, Update: 57500, Cost: 20.9015216827, UD 0.979366064072
+[14_19_01] Epoch: 1, Update: 57750, Cost: 26.0587654114, UD 0.965755939484
+[14_23_10] Epoch: 1, Update: 58000, Cost: 24.8332519531, UD 0.984821796417
+[14_27_11] Epoch: 1, Update: 58250, Cost: 24.4566020966, UD 0.97876906395
+[14_31_20] Epoch: 1, Update: 58500, Cost: 29.1526699066, UD 0.90537405014
+Source 0:  i think your fighting days are over , phil . __eou__
+Truth 0: no offence . __eou__
+Sample 0: i think you 're all right , you know that . __eou__
+Source 1:  no offence . __eou__
+Truth 1: but this , it 's a matter of honour . __eou__
+Sample 1: i am not at liberty to say . __eou__
+Source 2:  but this , it 's a matter of honour . __eou__
+Truth 2: the captain 's honour . __eou__ matter of life or death . __eou__
+Sample 2: i am not going to be able to do it . __eou__
+Source 3:  the captain 's honour . __eou__ matter of life or death . __eou__
+Truth 3: and the captain 's dead . __eou__
+Sample 3: i think i know what you 're looking for . __eou__
+Source 4:  and the captain 's dead . __eou__
+Truth 4: i think my duty 's to the living . __eou__
+Sample 4: i am not sure i know what you 're talking about . __eou__
+[14_35_25] Epoch: 1, Update: 58750, Cost: 19.6357841492, UD 0.996785879135
+[14_39_25] Epoch: 1, Update: 59000, Cost: 27.0495529175, UD 1.01402711868
+[14_43_33] Epoch: 1, Update: 59250, Cost: 24.646818161, UD 1.01851701736
+[14_47_42] Epoch: 1, Update: 59500, Cost: 31.0117702484, UD 1.02446293831
+[14_51_47] Epoch: 1, Update: 59750, Cost: 25.2501983643, UD 0.981963157654
+[14_55_52] Epoch: 1, Update: 60000, Cost: 26.1722488403, UD 1.02041506767
+Saving...
+Done
+Source 0:  yeah but they are not exactly throwing themselves at me . __eou__ are they ? __eou__
+Truth 0: i don 't get you . __eou__
+Sample 0: i don 't think so . __eou__  what ? __eou__
+Source 1:  i don 't get you . __eou__
+Truth 1: on what ? __eou__  it doesn 't matter . __eou__
+Sample 1: i 'm sorry . __eou__ i 'm sorry . __eou__
+Source 2:  on what ? __eou__  it doesn 't matter . __eou__
+Truth 2: yes it does ! __eou__
+Sample 2: i don 't think so . __eou__
+Source 3:  yes it does ! __eou__
+Truth 3: well it 's staring you in the face __eou__
+Sample 3: i don 't think so . __eou__
+Source 4:  well it 's staring you in the face __eou__
+Truth 4: go on . __eou__
+Sample 4: i 'm sorry . __eou__ i 'm sorry . __eou__
+Train: 26.1722488403 Val: 33.4876480103 ValPerp: 25.2299515718
+Seen 2679936 samples
+[15_16_27] Epoch: 1, Update: 60250, Cost: 26.1953678131, UD 0.991909980774
+[15_20_37] Epoch: 1, Update: 60500, Cost: 38.8846588135, UD 1.00516891479
+[15_24_45] Epoch: 1, Update: 60750, Cost: 28.4181785583, UD 1.00417613983
+[15_28_54] Epoch: 1, Update: 61000, Cost: 26.7274017334, UD 0.983876943588
+[15_33_03] Epoch: 1, Update: 61250, Cost: 29.3572425842, UD 0.966263055801
+[15_37_13] Epoch: 1, Update: 61500, Cost: 20.2286911011, UD 0.975416183472
+Source 0:  they 're all born in 1999 . __eou__
+Truth 0: what does this have to do with sophie ? __eou__
+Sample 0: __eou__
+Source 1:  what does this have to do with sophie ? __eou__
+Truth 1: we 've got a lead on the car wayne stole from fourth and UNK . __eou__
+Sample 1: that 's her . __eou__
+Source 2:  we 've got a lead on the car wayne stole from fourth and UNK . __eou__
+Truth 2: you 're looking for a light blue , UNK UNK . __eou__
+Sample 2: we 've got a name . __eou__
+Source 3:  you 're looking for a light blue , UNK UNK . __eou__
+Truth 3: and where 's the ice cream truck ? __eou__
+Sample 3: we 've got a UNK . __eou__
+Source 4:  and where 's the ice cream truck ? __eou__
+Truth 4: fourth and UNK . __eou__
+Sample 4: i 'll get you a cup of tea . __eou__
+[15_41_22] Epoch: 1, Update: 61750, Cost: 27.482011795, UD 1.02428388596
+[15_45_29] Epoch: 1, Update: 62000, Cost: 27.796289444, UD 0.993847131729
+[15_49_34] Epoch: 1, Update: 62250, Cost: 22.9329147339, UD 0.935616016388
+[15_53_37] Epoch: 1, Update: 62500, Cost: 26.1479415894, UD 0.923603057861
+[15_57_43] Epoch: 1, Update: 62750, Cost: 24.074136734, UD 1.06310892105
+[16_01_50] Epoch: 1, Update: 63000, Cost: 22.5668315887, UD 0.977520227432
+Source 0:  dylan ? __eou__
+Truth 0: molly ! __eou__
+Sample 0: it 's okay . __eou__
+Source 1:  molly ! __eou__
+Truth 1: oh , god . __eou__ oh , my god . __eou__
+Sample 1: it 's okay . __eou__
+Source 2:  oh , god . __eou__ oh , my god . __eou__
+Truth 2: dylan . __eou__
+Sample 2: oh , my god . __eou__
+Source 3:  dylan . __eou__
+Truth 3: no . __eou__
+Sample 3: it 's okay . __eou__
+Source 4:  no . __eou__
+Truth 4: dylan ... __eou__
+Sample 4: it 's christmas . __eou__
+[16_06_00] Epoch: 1, Update: 63250, Cost: 33.6898460388, UD 1.00847101212
+[16_10_13] Epoch: 1, Update: 63500, Cost: 28.3248138428, UD 1.06175017357
+[16_14_29] Epoch: 1, Update: 63750, Cost: 44.7709655762, UD 0.989483833313
+[16_18_36] Epoch: 1, Update: 64000, Cost: 25.5507984161, UD 0.970777988434
+[16_22_46] Epoch: 1, Update: 64250, Cost: 27.4743862152, UD 1.0130469799
+[16_26_59] Epoch: 1, Update: 64500, Cost: 21.9753894806, UD 1.01333212852
+Source 0:  but it was just the beginning . __eou__
+Truth 0: see , that 's the thing about ... __eou__
+Sample 0: i know that . __eou__
+Source 1:  see , that 's the thing about ... __eou__
+Truth 1: hitting rock bottom . __eou__
+Sample 1: i 'm not gonna let you down . __eou__
+Source 2:  hitting rock bottom . __eou__
+Truth 2: it gives you a lot of time __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  it gives you a lot of time __eou__
+Truth 3: to UNK what 's really important . __eou__
+Sample 3: to the world . __eou__
+Source 4:  to UNK what 's really important . __eou__
+Truth 4: not so fast . __eou__
+Sample 4: UNK . __eou__
+[16_31_10] Epoch: 1, Update: 64750, Cost: 34.7486038208, UD 0.984308958054
+[16_35_26] Epoch: 1, Update: 65000, Cost: 33.9358444214, UD 1.02137184143
+Saving...
+Done
+[16_39_39] Epoch: 1, Update: 65250, Cost: 21.7481956482, UD 1.03662109375
+[16_43_50] Epoch: 1, Update: 65500, Cost: 29.57280159, UD 1.01032304764
+[16_47_57] Epoch: 1, Update: 65750, Cost: 27.0374279022, UD 1.014991045
+[17_08_37] Epoch: 1, Update: 66000, Cost: 30.2402763367, UD 0.848346948624
+Source 0:  if not , i don 't know , you can have my ring . __eou__
+Truth 0: if not , i don 't know , you can have my ring . __eou__
+Sample 0: i 'll tell you what . __eou__
+Source 1:  if not , i don 't know , you can have my ring . __eou__
+Truth 1: he never gets the first one right . __eou__  will you shut up ? __eou__
+Sample 1: i 'll take it . __eou__
+Source 2:  he never gets the first one right . __eou__  will you shut up ? __eou__
+Truth 2: fine , you got yourself a bet . __eou__
+Sample 2: i 'll tell you what , i 'll tell you what i want to know . __eou__
+Source 3:  fine , you got yourself a bet . __eou__
+Truth 3: sounds good to me . __eou__ why don 't you guys shake on it ? __eou__
+Sample 3: i 'll take it . __eou__
+Source 4:  sounds good to me . __eou__ why don 't you guys shake on it ? __eou__
+Truth 4: but you 'll never get that job , i 'll tell you why . __eou__
+Sample 4: what 's up ? __eou__  what 's up ? __eou__
+[17_21_58] Epoch: 1, Update: 66250, Cost: 30.5483169556, UD 4.996778965
+[17_27_21] Epoch: 1, Update: 66500, Cost: 27.2765903473, UD 0.882040023804
+[17_32_46] Epoch: 1, Update: 66750, Cost: 25.1449680328, UD 0.96498799324
+[17_38_12] Epoch: 1, Update: 67000, Cost: 26.158657074, UD 0.866922140121
+[17_50_09] Epoch: 1, Update: 67250, Cost: 22.5243339539, UD 0.9269759655
+[17_59_10] Epoch: 1, Update: 67500, Cost: 15.299539566, UD 0.804160833359
+Source 0:  peachy , aside from almost shitting myself . __eou__
+Truth 0: yeah , must have been a scary thing __eou__
+Sample 0: __eou__
+Source 1:  yeah , must have been a scary thing __eou__
+Truth 1: for a man like you . __eou__
+Sample 1: for a long time . __eou__
+Source 2:  for a man like you . __eou__
+Truth 2: a civilian , i mean . __eou__
+Sample 2: __eou__
+Source 3:  a civilian , i mean . __eou__
+Truth 3: his name was , uh , freddy UNK . __eou__
+Sample 3: __eou__
+Source 4:  his name was , uh , freddy UNK . __eou__
+Truth 4: you know him ? __eou__
+Sample 4: he was a good man . __eou__
+[18_12_50] Epoch: 1, Update: 67750, Cost: 32.8392524719, UD 0.886090040207
+[18_24_12] Epoch: 1, Update: 68000, Cost: 27.5488166809, UD 0.968019962311
+[18_33_36] Epoch: 1, Update: 68250, Cost: 33.7559700012, UD 1.01703000069
+[18_39_12] Epoch: 1, Update: 68500, Cost: 33.4316749573, UD 0.935560941696
+[18_47_38] Epoch: 1, Update: 68750, Cost: 23.3443908691, UD 0.935171127319
+[18_59_07] Epoch: 1, Update: 69000, Cost: 29.4126720428, UD 0.858768939972
+Source 0:  is UNK in his house ? __eou__   thanks . __eou__
+Truth 0: i don 't know why i can 't catch up with that person . __eou__
+Sample 0: i 'll be right back . __eou__
+Source 1:  but us , we 're not like that even when our wives shouted at us . __eou__
+Truth 1: we are the man , right ? __eou__
+Sample 1: we 're like that . __eou__
+Source 2:  we are the man , right ? __eou__
+Truth 2: we should be the one to command ! __eou__
+Sample 2: you 're a fool . __eou__
+Source 3:  we should be the one to command ! __eou__
+Truth 3: we 're the one 's who work . __eou__
+Sample 3: you 're a fool ! __eou__
+Source 4:  we 're the one 's who work . __eou__
+Truth 4: they always talk and talk ... __eou__
+Sample 4: you 're a hero . __eou__
+[19_07_25] Epoch: 1, Update: 69250, Cost: 22.5495815277, UD 0.943441867828
+[19_12_59] Epoch: 1, Update: 69500, Cost: 30.3218822479, UD 0.943902015686
+[19_22_43] Epoch: 1, Update: 69750, Cost: 38.7644348145, UD 0.863220930099
+[19_28_11] Epoch: 1, Update: 70000, Cost: 25.6457862854, UD 0.985858917236
+Saving...
+Done
+[19_33_45] Epoch: 1, Update: 70250, Cost: 23.3711585999, UD 0.939306020737
+[19_43_58] Epoch: 1, Update: 70500, Cost: 26.0020008087, UD 12.8712530136
+Source 0:  she must be really pretty . __eou__
+Truth 0: my mother wore this gown on her wedding day . __eou__
+Sample 0: i can 't do this . __eou__
+Source 1:  my mother wore this gown on her wedding day . __eou__
+Truth 1: it UNK you . __eou__
+Sample 1: and i was just ... __eou__
+Source 2:  it UNK you . __eou__
+Truth 2: i am not your mother . __eou__
+Sample 2: and i will find it . __eou__
+Source 3:  i am not your mother . __eou__
+Truth 3: no . __eou__
+Sample 3: for the first time . __eou__
+Source 4:  no . __eou__
+Truth 4: but you will be . __eou__
+Sample 4: your mother . __eou__
+[19_55_49] Epoch: 1, Update: 70750, Cost: 37.9493980408, UD 0.884203910828
+[20_03_50] Epoch: 1, Update: 71000, Cost: 32.8417434692, UD 0.777271986008
+[20_10_47] Epoch: 1, Update: 71250, Cost: 24.937587738, UD 1.02069807053
+[20_14_50] Epoch: 1, Update: 71500, Cost: 31.2680988312, UD 0.878018140793
+[20_22_06] Epoch: 1, Update: 71750, Cost: 29.8929672241, UD 0.86948299408
+[20_27_55] Epoch: 1, Update: 72000, Cost: 24.5285453796, UD 8.78303790092
+Source 0:  i 'll help financially . __eou__
+Truth 0: i 'm not asking for anything . __eou__
+Sample 0: i 'm not going to go anywhere . __eou__
+Source 1:  i 'm not asking for anything . __eou__
+Truth 1: i don 't want your help or your money . __eou__
+Sample 1: i 'm not going to do anything . __eou__
+Source 2:  i don 't want your help or your money . __eou__
+Truth 2: we got by for 5 years . __eou__ you 're not part of our lives . __eou__
+Sample 2: i 'm not going to do anything . __eou__
+Source 3:  we got by for 5 years . __eou__ you 're not part of our lives . __eou__
+Truth 3: i am . __eou__
+Sample 3: i 'm not part of our lives . __eou__
+Source 4:  i am . __eou__
+Truth 4: because UNK is my son . __eou__
+Sample 4: i 'm not going to go anywhere . __eou__
+[20_37_04] Epoch: 1, Update: 72250, Cost: 39.6385993958, UD 0.958089828491
+[20_43_24] Epoch: 1, Update: 72500, Cost: 21.0196628571, UD 0.799793958664
+[20_48_58] Epoch: 1, Update: 72750, Cost: 25.2491416931, UD 0.979249954224
+[20_54_27] Epoch: 1, Update: 73000, Cost: 41.2734069824, UD 1.02080821991
+[20_59_56] Epoch: 1, Update: 73250, Cost: 32.5926170349, UD 0.951164007187
+[21_06_25] Epoch: 1, Update: 73500, Cost: 27.6867771149, UD 0.932651042938
+Source 0:  he killed people , sarah . __eou__
+Truth 0: in paris . __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  in paris . __eou__
+Truth 1: after arctic UNK , he became obsessed . __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  after arctic UNK , he became obsessed . __eou__
+Truth 2: he couldn 't think of anything but julia . __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  he couldn 't think of anything but julia . __eou__
+Truth 3: i 've heard the rumors . __eou__  it 's more than rumors . __eou__
+Sample 3: he was a UNK . __eou__
+Source 4:  i 've heard the rumors . __eou__  it 's more than rumors . __eou__
+Truth 4: interpol has security cam footage of him __eou__
+Sample 4: i 'm sure he 'll be fine . __eou__
+[21_15_01] Epoch: 1, Update: 73750, Cost: 30.6514778137, UD 0.82307100296
+[21_31_20] Epoch: 1, Update: 74000, Cost: 24.2801761627, UD 8.75910711288
+[21_39_58] Epoch: 1, Update: 74250, Cost: 34.9537811279, UD 8.94970107079
+[21_48_38] Epoch: 1, Update: 74500, Cost: 39.7620697021, UD 0.829398155212
+[21_54_03] Epoch: 1, Update: 74750, Cost: 30.5133857727, UD 0.965578794479
+[21_59_37] Epoch: 1, Update: 75000, Cost: 24.7857074738, UD 0.908892154694
+Saving...
+Done
+Source 0:  and what do you wanna do with it ? __eou__
+Truth 0: well , you know ... __eou__
+Sample 0: i 'll go with you . __eou__
+Source 1:  well , you know ... __eou__
+Truth 1: i don 't . __eou__ why don 't you tell me ? __eou__
+Sample 1: i 'll go with you . __eou__
+Source 2:  i don 't . __eou__ why don 't you tell me ? __eou__
+Truth 2: let 's go to your place and get laid . __eou__
+Sample 2: i 'll tell you what i know . __eou__
+Source 3:  let 's go to your place and get laid . __eou__
+Truth 3: that 's impossible . __eou__
+Sample 3: i 'll do it . __eou__
+Source 4:  that 's impossible . __eou__
+Truth 4: how come ? __eou__
+Sample 4: i 'll tell you what . __eou__
+Train: 24.7857074738 Val: 33.015499115 ValPerp: 24.1074061822
+Seen 4599936 samples
+[22_28_32] Epoch: 1, Update: 75250, Cost: 29.3115959167, UD 0.933755874634
+[22_33_54] Epoch: 1, Update: 75500, Cost: 32.9225273132, UD 0.891462087631
+[22_39_19] Epoch: 1, Update: 75750, Cost: 24.9781341553, UD 0.807682991028
+[22_49_22] Epoch: 1, Update: 76000, Cost: 24.3064212799, UD 1.00955915451
+[22_57_54] Epoch: 1, Update: 76250, Cost: 24.0946712494, UD 5.02387094498
+[23_03_25] Epoch: 1, Update: 76500, Cost: 36.6782646179, UD 0.878042936325
+Source 0:  good night ! __eou__
+Truth 0: now , you came in through the front door . __eou__
+Sample 0: i 'm coming . __eou__
+Source 1:  now , you came in through the front door . __eou__
+Truth 1: let 's take the UNK route . __eou__
+Sample 1: and you 're gonna be gone . __eou__
+Source 2:  let 's take the UNK route . __eou__
+Truth 2: but they can see the lift . __eou__
+Sample 2: i 'm gonna kill you . __eou__
+Source 3:  but they can see the lift . __eou__
+Truth 3: why aren 't they ... ? __eou__
+Sample 3: i 'm not gonna hurt you . __eou__
+Source 4:  why aren 't they ... ? __eou__
+Truth 4: we 're right out in the open . __eou__ they can see everything ! __eou__
+Sample 4: they 're UNK . __eou__
+[23_08_57] Epoch: 1, Update: 76750, Cost: 23.5476760864, UD 0.951519012451
+[23_14_41] Epoch: 1, Update: 77000, Cost: 28.3438739777, UD 1.01394605637
+[23_18_42] Epoch: 1, Update: 77250, Cost: 21.8053302765, UD 1.02128911018
+[23_22_45] Epoch: 1, Update: 77500, Cost: 39.3862838745, UD 0.982482910156
+[23_26_51] Epoch: 1, Update: 77750, Cost: 24.751625061, UD 0.975076913834
+[23_30_56] Epoch: 1, Update: 78000, Cost: 26.4949302673, UD 0.929712057114
+Source 0:  d 'you hear her ? __eou__ she thinks she 's the one getting married . __eou__
+Truth 0: you have told her , haven 't you ? __eou__  of course . __eou__
+Sample 0: i 'm not gonna do that . __eou__  i 'm not . __eou__
+Source 1:  you have told her , haven 't you ? __eou__  of course . __eou__
+Truth 1: everything ? __eou__  yeah . __eou__
+Sample 1: i 'll get it . __eou__  thanks . __eou__
+Source 2:  everything ? __eou__  yeah . __eou__
+Truth 2: nearly . __eou__
+Sample 2: oh , my god . __eou__
+Source 3:  nearly . __eou__
+Truth 3: oh ! __eou__ tell me i don 't look like a fucking princess . __eou__
+Sample 3: i 'll get it . __eou__
+Source 4:  oh ! __eou__ tell me i don 't look like a fucking princess . __eou__
+Truth 4: i 'll do your hair . __eou__   ma ! __eou__
+Sample 4: i 'll get the girl . __eou__  oh , thank you . __eou__
+[23_35_02] Epoch: 2, Update: 78250, Cost: 39.9356117249, UD 0.855790138245
+[23_39_10] Epoch: 2, Update: 78500, Cost: 21.8185443878, UD 0.99795794487
+[23_43_16] Epoch: 2, Update: 78750, Cost: 30.239276886, UD 1.01401305199
+[23_47_24] Epoch: 2, Update: 79000, Cost: 32.0565567017, UD 1.02516698837
+[23_51_31] Epoch: 2, Update: 79250, Cost: 28.9734306335, UD 0.914067983627
+[23_55_30] Epoch: 2, Update: 79500, Cost: 30.3362865448, UD 0.872034072876
+Source 0:  arnold ? __eou__
+Truth 0: william . __eou__
+Sample 0: i 'm sorry , i 'm sorry . __eou__
+Source 1:  william . __eou__
+Truth 1: mr UNK i 'll be finished here by five . __eou__
+Sample 1: __eou__
+Source 2:  mr UNK i 'll be finished here by five . __eou__
+Truth 2: could you stop doing that , please ? __eou__
+Sample 2: i 'm sorry , i 'm sorry . __eou__
+Source 3:  could you stop doing that , please ? __eou__
+Truth 3: i 'm sorry to have to tell you both this . __eou__
+Sample 3: i 'm sorry , i 'm sorry . __eou__
+Source 4:  i 'm sorry to have to tell you both this . __eou__
+Truth 4: my mother passed away a few hours ago . __eou__
+Sample 4: oh , no . __eou__
+[23_59_33] Epoch: 2, Update: 79750, Cost: 25.3828048706, UD 0.96522808075
+[00_03_40] Epoch: 2, Update: 80000, Cost: 28.776304245, UD 0.980227947235
+Saving...
+Done
+[00_07_52] Epoch: 2, Update: 80250, Cost: 24.7975826263, UD 0.990260124207
+[00_11_56] Epoch: 2, Update: 80500, Cost: 29.5545349121, UD 0.9725689888
+[00_15_59] Epoch: 2, Update: 80750, Cost: 27.7223834991, UD 0.995418787003
+[00_20_13] Epoch: 2, Update: 81000, Cost: 28.0726890564, UD 1.01866102219
+Source 0:  i 've gone through the list . __eou__
+Truth 0: there 's a special case in it . __eou__
+Sample 0: i 'll take you to the UNK . __eou__
+Source 1:  there 's a special case in it . __eou__
+Truth 1: the basket file , sir . __eou__
+Sample 1: but i 'll be back . __eou__
+Source 2:  the basket file , sir . __eou__
+Truth 2: its enquiry has been going on since the last two years . __eou__
+Sample 2: the UNK . __eou__
+Source 3:  its enquiry has been going on since the last two years . __eou__
+Truth 3: what 's the update on that ? __eou__
+Sample 3: i 'll be back in a minute . __eou__
+Source 4:  what 's the update on that ? __eou__
+Truth 4: sir , the enquiry is in a very crucial stage . __eou__
+Sample 4: the UNK system is a UNK . __eou__
+[00_24_24] Epoch: 2, Update: 81250, Cost: 34.6121444702, UD 0.966341972351
+[00_28_44] Epoch: 2, Update: 81500, Cost: 29.4401340485, UD 0.995373010635
+[00_32_38] Epoch: 2, Update: 81750, Cost: 24.284488678, UD 0.928952932358
+[00_36_20] Epoch: 2, Update: 82000, Cost: 23.3425731659, UD 0.85796380043
+[00_40_04] Epoch: 2, Update: 82250, Cost: 28.0900917053, UD 0.937424898148
+[00_43_50] Epoch: 2, Update: 82500, Cost: 21.6737041473, UD 0.891202926636
+Source 0:  my show . __eou__
+Truth 0: your show ? __eou__ you 're lying to me . __eou__
+Sample 0: you 're going to be okay . __eou__
+Source 1:  your show ? __eou__ you 're lying to me . __eou__
+Truth 1: why are you lying to me ? __eou__
+Sample 1: you 're lying . __eou__
+Source 2:  why are you lying to me ? __eou__
+Truth 2: i 'm not ... __eou__ what the fuck is going on ? __eou__
+Sample 2: you 're not going to do it ? __eou__
+Source 3:  i 'm not ... __eou__ what the fuck is going on ? __eou__
+Truth 3: you made me lick you ? __eou__
+Sample 3: you 're not going to do anything stupid . __eou__
+Source 4:  you made me lick you ? __eou__
+Truth 4: UNK , you 're scaring me . __eou__
+Sample 4: you 're not going to tell me anything . __eou__
+[00_47_38] Epoch: 2, Update: 82750, Cost: 28.0717735291, UD 0.917314052582
+[00_51_24] Epoch: 2, Update: 83000, Cost: 31.245475769, UD 0.84588599205
+[00_55_07] Epoch: 2, Update: 83250, Cost: 26.6584815979, UD 0.929663896561
+[00_58_53] Epoch: 2, Update: 83500, Cost: 31.7179470062, UD 0.891788005829
+[01_02_40] Epoch: 2, Update: 83750, Cost: 20.9215965271, UD 0.886334896088
+[01_06_21] Epoch: 2, Update: 84000, Cost: 23.8143253326, UD 0.875602006912
+Source 0:  i had fun , too . __eou__
+Truth 0: so , uh , when can i see you again ? __eou__
+Sample 0: i 'm just gonna go and get the hell out of here . __eou__
+Source 1:  so , uh , when can i see you again ? __eou__
+Truth 1: how about now ? __eou__
+Sample 1: when i 'm back from the ship , __eou__
+Source 2:  how about now ? __eou__
+Truth 2: should we get a drink , maybe ? __eou__
+Sample 2: i 'm gonna be the UNK . __eou__
+Source 3:  should we get a drink , maybe ? __eou__
+Truth 3: you want to go downstairs and get something ? __eou__
+Sample 3: i 'm just gonna be the best UNK you ever had . __eou__
+Source 4:  just fine . __eou__
+Truth 4: come over here . __eou__
+Sample 4: i 'm just gonna be the best man i have . __eou__
+[01_10_04] Epoch: 2, Update: 84250, Cost: 36.3908653259, UD 0.854199886322
+[01_13_50] Epoch: 2, Update: 84500, Cost: 22.5691070557, UD 0.83438706398
+[01_17_31] Epoch: 2, Update: 84750, Cost: 23.9455471039, UD 0.882668972015
+[01_21_11] Epoch: 2, Update: 85000, Cost: 29.4126377106, UD 0.739855051041
+Saving...
+Done
+[01_25_00] Epoch: 2, Update: 85250, Cost: 25.9108791351, UD 0.89245390892
+[01_28_39] Epoch: 2, Update: 85500, Cost: 28.017824173, UD 0.811242103577
+Source 0:  wow . __eou__ congratulations , paris . __eou__
+Truth 0: yeah . __eou__ last year i was sleeping with the editor . __eou__
+Sample 0: i 'm not going to be able to do that . __eou__
+Source 1:  yeah . __eou__ last year i was sleeping with the editor . __eou__
+Truth 1: and this year , i am . __eou__
+Sample 1: i was just about to tell you , i was just getting the UNK . __eou__
+Source 2:  martinis should go into a martini glass   __eou__
+Truth 2: gin martinis , vodka martinis , period . __eou__ that 's it . __eou__
+Sample 2: i 'm not going to be able to do that . __eou__
+Source 3:  gin martinis , vodka martinis , period . __eou__ that 's it . __eou__
+Truth 3: do you know what this is ? __eou__
+Sample 3: i 'm not hungry . __eou__
+Source 4:  we were gonna drink martinis . __eou__
+Truth 4: the rat pack drank martinis . __eou__ james bond drank martinis . __eou__
+Sample 4: i 'm not going to be a UNK , __eou__
+[01_32_25] Epoch: 2, Update: 85750, Cost: 24.9660301208, UD 0.932181835175
+[01_36_06] Epoch: 2, Update: 86000, Cost: 32.2623596191, UD 0.915899038315
+[01_39_51] Epoch: 2, Update: 86250, Cost: 29.2653656006, UD 0.870959043503
+[01_43_38] Epoch: 2, Update: 86500, Cost: 29.3179283142, UD 0.847176074982
+[01_47_21] Epoch: 2, Update: 86750, Cost: 27.7644805908, UD 0.86166882515
+[01_51_05] Epoch: 2, Update: 87000, Cost: 36.5260658264, UD 0.897666215897
+Source 0:  you 've never had cause to doubt your husband ? __eou__
+Truth 0: never ! __eou__
+Sample 0: i 'm sure you have . __eou__
+Source 1:  never ! __eou__
+Truth 1: never have i had cause to doubt my husband , as you put it . __eou__
+Sample 1: i 'm sorry , i 'm sorry . __eou__
+Source 2:  never have i had cause to doubt my husband , as you put it . __eou__
+Truth 2: not for one moment . __eou__
+Sample 2: you were a UNK . __eou__
+Source 3:  not for one moment . __eou__
+Truth 3: i have rehearsals to attend . __eou__
+Sample 3: i 'm sorry . __eou__
+Source 4:  i have rehearsals to attend . __eou__
+Truth 4: just tell UNK crisp what you told me , all right ? __eou__
+Sample 4: i 'm sorry , i 'm sorry . __eou__
+[01_54_43] Epoch: 2, Update: 87250, Cost: 20.5168209076, UD 0.844681024551
+[01_58_27] Epoch: 2, Update: 87500, Cost: 25.4148769379, UD 0.927713155746
+[02_02_08] Epoch: 2, Update: 87750, Cost: 26.609462738, UD 0.923074007034
+[02_05_53] Epoch: 2, Update: 88000, Cost: 25.3523635864, UD 0.866393089294
+[02_09_32] Epoch: 2, Update: 88250, Cost: 23.2469959259, UD 0.923242092133
+[02_13_10] Epoch: 2, Update: 88500, Cost: 26.7967624664, UD 0.945452928543
+Source 0:  no turning back now . __eou__
+Truth 0: __eou__
+Sample 0: i 'm not gonna say anything . __eou__
+Source 1:  __eou__
+Truth 1: __eou__
+Sample 1: __eou__
+Source 2:  __eou__
+Truth 2: ah ! __eou__ i can 't do this . __eou__ oh , thank god . __eou__
+Sample 2: __eou__
+Source 3:  ah ! __eou__ i can 't do this . __eou__ oh , thank god . __eou__
+Truth 3: __eou__
+Sample 3: i can 't do this . __eou__
+Source 4:  __eou__
+Truth 4: __eou__
+Sample 4: __eou__
+[02_16_58] Epoch: 2, Update: 88750, Cost: 23.7994308472, UD 0.925433158875
+[02_20_36] Epoch: 2, Update: 89000, Cost: 30.8640079498, UD 0.889664888382
+[02_24_17] Epoch: 2, Update: 89250, Cost: 24.1420326233, UD 0.863703966141
+[02_27_54] Epoch: 2, Update: 89500, Cost: 42.0906066895, UD 0.818269014359
+[02_31_32] Epoch: 2, Update: 89750, Cost: 20.7656478882, UD 0.831456899643
+[02_35_20] Epoch: 2, Update: 90000, Cost: 24.142250061, UD 0.843992948532
+Saving...
+Done
+Source 0:  no , it was january , remember ? __eou__ the ground was harder than this . __eou__
+Truth 0: it 's amazing one hole got dug . __eou__
+Sample 0: i was just a kid . __eou__
+Source 1:  it 's amazing one hole got dug . __eou__
+Truth 1: that colonel ? __eou__  keith . __eou__
+Sample 1: you know , i 've never been to the bottom . __eou__
+Source 2:  that colonel ? __eou__  keith . __eou__
+Truth 2: yeah , keith . __eou__
+Sample 2: you know , i 've never been to a place before . __eou__
+Source 3:  yeah , keith . __eou__
+Truth 3: book said he tried them as UNK . __eou__
+Sample 3: you know , i was just ... __eou__
+Source 4:  the same rights don 't apply . __eou__
+Truth 4: well , i guess you were happier before you knew any of this . __eou__
+Sample 4: i 'm not gonna do it . __eou__
+Train: 24.142250061 Val: 33.2649726868 ValPerp: 24.6941683574
+Seen 1519872 samples
+[02_55_24] Epoch: 2, Update: 90250, Cost: 22.5962276459, UD 0.891092061996
+[02_59_01] Epoch: 2, Update: 90500, Cost: 27.4523601532, UD 0.895035982132
+[03_02_38] Epoch: 2, Update: 90750, Cost: 27.4979705811, UD 0.933696985245
+[03_06_20] Epoch: 2, Update: 91000, Cost: 18.3695449829, UD 0.899749994278
+[03_10_02] Epoch: 2, Update: 91250, Cost: 22.1040039062, UD 0.924938201904
+[03_13_44] Epoch: 2, Update: 91500, Cost: 22.0424079895, UD 0.921442985535
+Source 0:  like justice counts , truth matters . __eou__ otherwise ... __eou__
+Truth 0: we 're no better than animals . __eou__
+Sample 0: you 're not gonna be able to find anyone __eou__
+Source 1:  we 're no better than animals . __eou__
+Truth 1: you know what ? __eou__
+Sample 1: what ? __eou__
+Source 2:  you know what ? __eou__
+Truth 2: you 're right . __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  you 're right . __eou__
+Truth 3: let 's go to work . __eou__
+Sample 3: i 'm sorry . __eou__
+Source 4:  let 's go to work . __eou__
+Truth 4: before we go on , __eou__
+Sample 4: what ? __eou__
+[03_17_23] Epoch: 2, Update: 91750, Cost: 43.1870880127, UD 0.835769891739
+[03_21_05] Epoch: 2, Update: 92000, Cost: 42.838973999, UD 0.835157155991
+[03_24_47] Epoch: 2, Update: 92250, Cost: 32.4898872375, UD 0.836293935776
+[03_28_26] Epoch: 2, Update: 92500, Cost: 27.8866291046, UD 0.927613973618
+[03_32_11] Epoch: 2, Update: 92750, Cost: 26.5751914978, UD 0.894235134125
+[03_35_54] Epoch: 2, Update: 93000, Cost: 27.0327377319, UD 0.846314907074
+Source 0:  going that way . __eou__
+Truth 0: probably just some punk kids playing a prank , huh ? __eou__
+Sample 0: __eou__
+Source 1:  probably just some punk kids playing a prank , huh ? __eou__
+Truth 1: donny : __eou__ yeah , why would they come out this far ? __eou__
+Sample 1: __eou__
+Source 2:  donny : __eou__ yeah , why would they come out this far ? __eou__
+Truth 2: maybe it 's an animal ? __eou__
+Sample 2: __eou__
+Source 3:  maybe it 's an animal ? __eou__
+Truth 3: could be injured . __eou__
+Sample 3: __eou__
+Source 4:  could be injured . __eou__
+Truth 4: paul : __eou__ i don 't know . __eou__
+Sample 4: yeah , it 's a real pain . __eou__
+[03_39_32] Epoch: 2, Update: 93250, Cost: 34.6473770142, UD 0.924819946289
+[03_43_13] Epoch: 2, Update: 93500, Cost: 23.8807525635, UD 0.794569969177
+[03_46_55] Epoch: 2, Update: 93750, Cost: 30.632270813, UD 0.875045061111
+[03_50_39] Epoch: 2, Update: 94000, Cost: 21.7217941284, UD 0.874782085419
+[03_54_20] Epoch: 2, Update: 94250, Cost: 35.3165664673, UD 0.849941015244
+[03_58_06] Epoch: 2, Update: 94500, Cost: 32.8759498596, UD 0.877930879593
+Source 0:  and eat shit ! __eou__
+Truth 0: no way now , even if you wanted to pay . __eou__
+Sample 0: i 'll take you home . __eou__
+Source 1:  no way now , even if you wanted to pay . __eou__
+Truth 1: now i 've got proof you don 't serve communists here ! __eou__
+Sample 1: i 'll give you a beer . __eou__
+Source 2:  now i 've got proof you don 't serve communists here ! __eou__
+Truth 2: first i 'll beat you up and then you 'll go to the UNK . __eou__
+Sample 2: i 'll give you a beer , i 'll be back in a minute . __eou__
+Source 3:  first i 'll beat you up and then you 'll go to the UNK . __eou__
+Truth 3: then i 'll shut you down ! __eou__
+Sample 3: i 'll give you a UNK , i 'll give you a beer . __eou__
+Source 4:  then i 'll shut you down ! __eou__
+Truth 4: i 'm going to stamp out crime in this country . __eou__
+Sample 4: i 'll take you to the hospital . __eou__
+[04_01_47] Epoch: 2, Update: 94750, Cost: 25.2838001251, UD 0.896541118622
+[04_05_30] Epoch: 2, Update: 95000, Cost: 36.322467804, UD 0.898684978485
+Saving...
+Done
+[04_09_15] Epoch: 2, Update: 95250, Cost: 21.2019462585, UD 0.890141010284
+[04_12_53] Epoch: 2, Update: 95500, Cost: 21.7544174194, UD 0.700540065765
+[04_16_27] Epoch: 2, Update: 95750, Cost: 21.7299022675, UD 0.899981021881
+[04_20_07] Epoch: 2, Update: 96000, Cost: 25.8443164825, UD 0.89031791687
+Source 0:  study hard and get a good job . __eou__
+Truth 0: look at me . __eou__
+Sample 0: you 're not going to be happy here . __eou__
+Source 1:  look at me . __eou__
+Truth 1: what 's wrong with you ? __eou__  have you been listening ? __eou__
+Sample 1: you 're not going anywhere . __eou__
+Source 2:  what 's wrong with you ? __eou__  have you been listening ? __eou__
+Truth 2: what i mean to say is that ... __eou__
+Sample 2: what 's wrong with you ? __eou__  what 's wrong with you ? __eou__
+Source 3:  what i mean to say is that ... __eou__
+Truth 3: don 't you want to buy your girlfriend delicious food __eou__
+Sample 3: you guys are good . __eou__
+Source 4:  don 't you want to buy your girlfriend delicious food __eou__
+Truth 4: and buy her lots of presents ? __eou__
+Sample 4: and buy a new outfit ? __eou__
+[04_23_47] Epoch: 2, Update: 96250, Cost: 29.3685417175, UD 0.860752820969
+[04_27_27] Epoch: 2, Update: 96500, Cost: 26.0155906677, UD 0.855144023895
+[04_31_07] Epoch: 2, Update: 96750, Cost: 32.9186325073, UD 0.865684986115
+[04_34_50] Epoch: 2, Update: 97000, Cost: 12.9827346802, UD 0.793990135193
+[04_38_26] Epoch: 2, Update: 97250, Cost: 29.7655677795, UD 0.800071001053
+[04_42_09] Epoch: 2, Update: 97500, Cost: 28.2686538696, UD 0.88263297081
+Source 0:  how did i forget her ? __eou__
+Truth 0: __eou__
+Sample 0: she 's not a vampire anymore . __eou__
+Source 1:  __eou__
+Truth 1: hello ? __eou__ hey , it 's kevin . __eou__
+Sample 1: __eou__
+Source 2:  hello ? __eou__ hey , it 's kevin . __eou__
+Truth 2: you , uh __eou__  you still going camping ? __eou__
+Sample 2: what ? __eou__ what ? __eou__
+Source 3:  you , uh __eou__  you still going camping ? __eou__
+Truth 3: yes . __eou__
+Sample 3: yeah , i guess so . __eou__
+Source 4:  yes . __eou__
+Truth 4: so i 'm pretty much not sure what i 'm going to call it yet . __eou__
+Sample 4: i 'm sorry . __eou__
+[04_45_48] Epoch: 2, Update: 97750, Cost: 27.9007015228, UD 0.905330896378
+[04_49_23] Epoch: 2, Update: 98000, Cost: 29.2775115967, UD 0.923774003983
+[04_53_02] Epoch: 2, Update: 98250, Cost: 24.4499645233, UD 0.889367103577
+[04_56_47] Epoch: 2, Update: 98500, Cost: 32.3188476562, UD 0.879647016525
+[05_00_30] Epoch: 2, Update: 98750, Cost: 45.7630615234, UD 0.889290094376
+[05_04_13] Epoch: 2, Update: 99000, Cost: 33.9439506531, UD 0.726052999496
+Source 0:  or that letter gets filled out . __eou__
+Truth 0: all right , come on , get cracking . __eou__
+Sample 0: i 'm sorry , i 'm sorry . __eou__  no , that 's fine . __eou__
+Source 1:  all right , come on , get cracking . __eou__
+Truth 1: right . __eou__ oh , hello , jack . __eou__ hello . __eou__
+Sample 1: oh , come on , you 've got to get out of here . __eou__
+Source 2:  right . __eou__ oh , hello , jack . __eou__ hello . __eou__
+Truth 2: right , lads . __eou__ you 're all here , are you ? __eou__ right . __eou__
+Sample 2: i 'm sorry , i 'm sorry . __eou__  i 'm sorry . __eou__
+Source 3:  right , lads . __eou__ you 're all here , are you ? __eou__ right . __eou__
+Truth 3: i 've got something pretty important to tell you all and , ... er , ... __eou__
+Sample 3: oh , i 'm sorry , mate . __eou__  oh , i 'm sorry . __eou__
+Source 4:  the sunday . __eou__ i 'm afraid ... __eou__ that concession 's been withdrawn . __eou__
+Truth 4: oh , ' ey . __eou__  i 'm afraid so . __eou__
+Sample 4: i 'm afraid that 's what i 'm saying . __eou__
+[05_07_50] Epoch: 2, Update: 99250, Cost: 27.492723465, UD 0.945643901825
+[05_11_34] Epoch: 2, Update: 99500, Cost: 35.9938583374, UD 0.919492006302
+[05_15_18] Epoch: 2, Update: 99750, Cost: 33.0332145691, UD 0.777484893799
+[05_19_02] Epoch: 2, Update: 100000, Cost: 28.3794212341, UD 0.917499065399
+Saving...
+Done
+[05_22_56] Epoch: 2, Update: 100250, Cost: 19.1614608765, UD 0.930999994278
+[05_26_39] Epoch: 2, Update: 100500, Cost: 27.2619304657, UD 0.825522899628
+Source 0:  i never saw this . __eou__ ok ? __eou__
+Truth 0: ok . __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  course , i meet a lot of actresses in my line of work . __eou__
+Truth 1: and most of them fall for me . __eou__
+Sample 1: i 've got to go . __eou__
+Source 2:  and most of them fall for me . __eou__
+Truth 2: oh , could we have another bottle , please ? __eou__
+Sample 2: and i 'm a UNK . __eou__
+Source 3:  oh , could we have another bottle , please ? __eou__
+Truth 3: oh , they don 't say anything __eou__
+Sample 3: oh , no . __eou__
+Source 4:  oh , they don 't say anything __eou__
+Truth 4: but i can always tell by the way they look at me . __eou__
+Sample 4: i 'm a UNK . __eou__
+[05_30_20] Epoch: 2, Update: 100750, Cost: 25.9594230652, UD 0.926130056381
+[05_34_01] Epoch: 2, Update: 101000, Cost: 24.9244480133, UD 0.929966926575
+[05_37_44] Epoch: 2, Update: 101250, Cost: 22.0735683441, UD 0.856589078903
+[05_41_24] Epoch: 2, Update: 101500, Cost: 28.7211055756, UD 0.790059089661
+[05_45_02] Epoch: 2, Update: 101750, Cost: 25.8987941742, UD 0.892091989517
+[05_48_43] Epoch: 2, Update: 102000, Cost: 28.6939964294, UD 0.837387800217
+Source 0:  we want a UNK jet waiting at UNK ... __eou__  oh ! __eou__
+Truth 0: ... for when we arrive in the helicopter . __eou__  sorry . __eou__
+Sample 0: that 's what we want . __eou__
+Source 1:  ... for when we arrive in the helicopter . __eou__  sorry . __eou__
+Truth 1: don 't you think your demands are becoming a tad unrealistic ? __eou__
+Sample 1: oh , no , no , no . __eou__
+Source 2:  don 't you think your demands are becoming a tad unrealistic ? __eou__
+Truth 2: i mean , come on , they 're not gonna give you a UNK jet . __eou__
+Sample 2: you 're not gonna do anything . __eou__
+Source 3:  i mean , come on , they 're not gonna give you a UNK jet . __eou__
+Truth 3: that 's the whole point . __eou__  hm ? __eou__ i don 't follow . __eou__
+Sample 3: they 're not gonna give you a UNK . __eou__
+Source 4:  that 's the whole point . __eou__  hm ? __eou__ i don 't follow . __eou__
+Truth 4: it 's just a distraction for when we leave the bank posing as hostages . __eou__
+Sample 4: you 're the one who 's gonna kill me . __eou__
+[05_52_25] Epoch: 2, Update: 102250, Cost: 29.5087394714, UD 0.904107093811
+[05_56_06] Epoch: 2, Update: 102500, Cost: 37.5533027649, UD 0.877302885056
+[05_59_49] Epoch: 2, Update: 102750, Cost: 31.1871852875, UD 0.875953912735
+[06_03_31] Epoch: 2, Update: 103000, Cost: 26.5086078644, UD 0.895426988602
+[06_07_12] Epoch: 2, Update: 103250, Cost: 32.7400550842, UD 0.844278097153
+[06_10_56] Epoch: 2, Update: 103500, Cost: 31.2681808472, UD 0.804384946823
+Source 0:  that 's what my boss says . __eou__
+Truth 0: between you and me , she is a total b ... big sister . __eou__
+Sample 0: you know , i 'm not gonna be able to do anything . __eou__
+Source 1:  between you and me , she is a total b ... big sister . __eou__
+Truth 1: i need to go , okay ? __eou__ i got an emergency text . __eou__
+Sample 1: you know , i 'm not gonna be able to do anything . __eou__
+Source 2:  i need to go , okay ? __eou__ i got an emergency text . __eou__
+Truth 2: what kind of emergency ? __eou__
+Sample 2: you 're gonna have to tell me what 's going on . __eou__
+Source 3:  what kind of emergency ? __eou__
+Truth 3: UNK needs a kiss . __eou__
+Sample 3: you 're not gonna shoot me ? __eou__
+Source 4:  UNK needs a kiss . __eou__
+Truth 4: he looks so sad and lonely . __eou__
+Sample 4: i 'm not gonna hurt you . __eou__
+[06_14_37] Epoch: 2, Update: 103750, Cost: 28.8981285095, UD 0.82940196991
+[06_18_18] Epoch: 2, Update: 104000, Cost: 28.7408409119, UD 0.895272016525
+[06_21_52] Epoch: 2, Update: 104250, Cost: 22.6149196625, UD 0.920257091522
+[06_25_34] Epoch: 2, Update: 104500, Cost: 22.3733863831, UD 0.863320112228
+[06_29_17] Epoch: 2, Update: 104750, Cost: 24.814781189, UD 0.911628007889
+[06_32_54] Epoch: 2, Update: 105000, Cost: 25.8400650024, UD 0.875070810318
+Saving...
+Done
+Source 0:  chefs , your time is up . __eou__
+Truth 0: done . __eou__
+Sample 0: to the final round . __eou__
+Source 1:  done . __eou__
+Truth 1: naomi . __eou__  curtis . __eou__
+Sample 1: i have a little surprise for you . __eou__
+Source 2:  naomi . __eou__  curtis . __eou__
+Truth 2: did you find it tricky ? __eou__
+Sample 2: to make sure the UNK __eou__
+Source 3:  did you find it tricky ? __eou__
+Truth 3: we just couldn 't hear very well . __eou__
+Sample 3: i don 't know . __eou__
+Source 4:  we just couldn 't hear very well . __eou__
+Truth 4: let 's remove the UNK , find out __eou__
+Sample 4: i don 't know . __eou__
+Train: 25.8400650024 Val: 33.1943016052 ValPerp: 24.5265085082
+Seen 3439872 samples
+[06_53_02] Epoch: 2, Update: 105250, Cost: 29.6820926666, UD 0.846055984497
+[06_56_39] Epoch: 2, Update: 105500, Cost: 33.0471229553, UD 0.818765878677
+[07_00_21] Epoch: 2, Update: 105750, Cost: 29.1304206848, UD 0.908565998077
+[07_03_58] Epoch: 2, Update: 106000, Cost: 21.5991096497, UD 0.795716047287
+[07_07_40] Epoch: 2, Update: 106250, Cost: 29.881975174, UD 0.919147014618
+[07_11_25] Epoch: 2, Update: 106500, Cost: 23.3661632538, UD 0.821568965912
+Source 0:  you UNK your knife with something . __eou__
+Truth 0: i need to know what it is . __eou__
+Sample 0: i 'm not going to let you go . __eou__
+Source 1:  i need to know what it is . __eou__
+Truth 1: that must 've been UNK . __eou__
+Sample 1: i 'm not going to let you go . __eou__
+Source 2:  that must 've been UNK . __eou__
+Truth 2: i try to stay away from him . __eou__
+Sample 2: it was a gift from the UNK . __eou__
+Source 3:  i try to stay away from him . __eou__
+Truth 3: the guy UNK me out . __eou__
+Sample 3: i 'm not going to let you go . __eou__
+Source 4:  the guy UNK me out . __eou__
+Truth 4: he should . __eou__
+Sample 4: he 's a good man . __eou__
+[07_15_03] Epoch: 2, Update: 106750, Cost: 29.5379619598, UD 0.877218961716
+[07_18_42] Epoch: 2, Update: 107000, Cost: 21.23554039, UD 0.88131403923
+[07_22_15] Epoch: 2, Update: 107250, Cost: 27.1210269928, UD 0.907584905624
+[07_25_57] Epoch: 2, Update: 107500, Cost: 29.6792736053, UD 0.902505159378
+[07_29_40] Epoch: 2, Update: 107750, Cost: 32.7434539795, UD 0.901088953018
+[07_33_19] Epoch: 2, Update: 108000, Cost: 15.3974847794, UD 0.838522911072
+Source 0:  quick ! __eou__  catch him ! __eou__
+Truth 0: off with his head ! __eou__
+Sample 0: stop ! __eou__
+Source 1:  off with his head ! __eou__
+Truth 1: stop ! __eou__
+Sample 1: __eou__
+Source 2:  stop ! __eou__
+Truth 2: don 't let him slip away ! __eou__
+Sample 2: stop ! __eou__
+Source 3:  don 't let him slip away ! __eou__
+Truth 3: UNK UNK ! __eou__
+Sample 3: __eou__
+Source 4:  UNK UNK ! __eou__
+Truth 4: stop running ! __eou__
+Sample 4: stop ! __eou__
+[07_36_58] Epoch: 2, Update: 108250, Cost: 26.3972759247, UD 0.889381885529
+[07_40_40] Epoch: 2, Update: 108500, Cost: 29.085811615, UD 0.928241014481
+[07_44_23] Epoch: 2, Update: 108750, Cost: 25.9879302979, UD 0.920351028442
+[07_47_57] Epoch: 2, Update: 109000, Cost: 36.6015014648, UD 0.8561398983
+[07_51_38] Epoch: 2, Update: 109250, Cost: 26.9107608795, UD 0.873148202896
+[07_55_17] Epoch: 2, Update: 109500, Cost: 22.2464199066, UD 0.885028123856
+Source 0:  that 's freaky .  __eou__
+Truth 0: no it isn 't . __eou__
+Sample 0: __eou__
+Source 1:  no it isn 't . __eou__
+Truth 1: yes ! __eou__ it 's a giant , UNK gap . __eou__
+Sample 1: __eou__
+Source 2:  yes ! __eou__ it 's a giant , UNK gap . __eou__
+Truth 2: i tried to look pretty for you . __eou__
+Sample 2: i can 't believe this . __eou__
+Source 3:  i tried to look pretty for you . __eou__
+Truth 3: you do . __eou__
+Sample 3: __eou__
+Source 4:  you do . __eou__
+Truth 4: are you mad ? __eou__
+Sample 4: __eou__
+[07_58_59] Epoch: 2, Update: 109750, Cost: 32.4586296082, UD 0.751402854919
+[08_02_33] Epoch: 2, Update: 110000, Cost: 29.44190979, UD 0.818768978119
+Saving...
+Done
+[08_06_18] Epoch: 2, Update: 110250, Cost: 26.7954654694, UD 0.903915882111
+[08_09_57] Epoch: 2, Update: 110500, Cost: 28.0358943939, UD 0.917948961258
+[08_13_31] Epoch: 2, Update: 110750, Cost: 24.0934619904, UD 0.854703187943
+[08_17_11] Epoch: 2, Update: 111000, Cost: 28.8625106812, UD 0.907933950424
+Source 0:  there 's this one hanging part in particular __eou__
+Truth 0: that 's some sort of flap . __eou__  it 's fine . __eou__
+Sample 0: it 's a little UNK . __eou__
+Source 1:  that 's some sort of flap . __eou__  it 's fine . __eou__
+Truth 1: it 's like a UNK wing or something . __eou__
+Sample 1: it 's a UNK UNK . __eou__  it 's a UNK . __eou__
+Source 2:  it 's like a UNK wing or something . __eou__
+Truth 2: i don 't know . __eou__  oh , god . __eou__ all right . __eou__
+Sample 2: it 's a UNK UNK . __eou__
+Source 3:  i don 't know . __eou__  oh , god . __eou__ all right . __eou__
+Truth 3: i can 't  okay . __eou__
+Sample 3: i 'll see you later . __eou__  okay . __eou__
+Source 4:  i can 't  okay . __eou__
+Truth 4: i 'll help you . __eou__  there 's a UNK where it was , __eou__
+Sample 4: __eou__
+[08_20_46] Epoch: 2, Update: 111250, Cost: 25.0586299896, UD 0.895261049271
+[08_24_25] Epoch: 2, Update: 111500, Cost: 26.4430847168, UD 0.808686971664
+[08_28_07] Epoch: 2, Update: 111750, Cost: 22.1560325623, UD 0.825749158859
+[08_31_48] Epoch: 2, Update: 112000, Cost: 27.4855194092, UD 0.875116825104
+[08_35_27] Epoch: 2, Update: 112250, Cost: 31.763923645, UD 0.844665050507
+[08_39_07] Epoch: 2, Update: 112500, Cost: 23.7642307281, UD 0.904670953751
+Source 0:  victor : __eou__ finally . __eou__
+Truth 0: wait , we don 't know for sure that it 's them . __eou__
+Sample 0: __eou__
+Source 1:  wait , we don 't know for sure that it 's them . __eou__
+Truth 1: what if it 's grandfather ? __eou__
+Sample 1: i 'm not gonna let you do this . __eou__
+Source 2:  what if it 's grandfather ? __eou__
+Truth 2: what if he 's coming to kill us ? __eou__
+Sample 2: __eou__
+Source 3:  what if he 's coming to kill us ? __eou__
+Truth 3: he said he 'd make us pay for our rebellion . __eou__
+Sample 3: i don 't know . __eou__
+Source 4:  he said he 'd make us pay for our rebellion . __eou__
+Truth 4: he already banished us from asgard . __eou__
+Sample 4: i don 't know what to do . __eou__
+[08_42_46] Epoch: 2, Update: 112750, Cost: 20.9481430054, UD 0.82168006897
+[08_46_21] Epoch: 2, Update: 113000, Cost: 25.2239208221, UD 0.906105041504
+[08_50_01] Epoch: 2, Update: 113250, Cost: 23.4420890808, UD 0.888396978378
+[08_53_44] Epoch: 2, Update: 113500, Cost: 21.3234138489, UD 0.865975141525
+[08_57_22] Epoch: 2, Update: 113750, Cost: 34.0040054321, UD 0.859425783157
+[09_01_06] Epoch: 2, Update: 114000, Cost: 38.9076538086, UD 0.89763212204
+Source 0:  seeking acceptance and desperately looking for support __eou__
+Truth 0: wherever they can find it . __eou__
+Sample 0: to be a girl . __eou__
+Source 1:  wherever they can find it . __eou__
+Truth 1: i was like you when i was younger . __eou__
+Sample 1: i 'm not a girl . __eou__
+Source 2:  i was like you when i was younger . __eou__
+Truth 2: i was born ... __eou__
+Sample 2: i was born in the UNK , __eou__
+Source 3:  i was born ... __eou__
+Truth 3: i was born a girl . __eou__
+Sample 3: i was born in the UNK . __eou__
+Source 4:  i was born a girl . __eou__
+Truth 4: now i 'm a boy . __eou__
+Sample 4: i was born in the village . __eou__
+[09_04_48] Epoch: 2, Update: 114250, Cost: 29.0888900757, UD 0.924512863159
+[09_08_24] Epoch: 2, Update: 114500, Cost: 39.1469421387, UD 0.810741901398
+[09_12_02] Epoch: 2, Update: 114750, Cost: 34.9517822266, UD 0.8761510849
+[09_15_37] Epoch: 2, Update: 115000, Cost: 31.4693183899, UD 0.803375959396
+Saving...
+Done
+[09_19_22] Epoch: 2, Update: 115250, Cost: 27.3180007935, UD 0.902015924454
+[09_23_02] Epoch: 2, Update: 115500, Cost: 30.235956192, UD 0.902457952499
+Source 0:  he wants to adopt benjamin . __eou__
+Truth 0: at first i said no . __eou__ he never brought it up again . __eou__
+Sample 0: he 's UNK me . __eou__
+Source 1:  at first i said no . __eou__ he never brought it up again . __eou__
+Truth 1: then i started UNK needs a dad . __eou__
+Sample 1: he 's UNK UNK . __eou__
+Source 2:  then i started UNK needs a dad . __eou__
+Truth 2: he 's got a dad . __eou__ who 's gonna UNK two years . __eou__
+Sample 2: he 's UNK UNK . __eou__
+Source 3:  he 's got a dad . __eou__ who 's gonna UNK two years . __eou__
+Truth 3: damn it , leon , i don 't know what to do . __eou__
+Sample 3: i know . __eou__
+Source 4:  damn it , leon , i don 't know what to do . __eou__
+Truth 4: i want to do what 's UNK our son . __eou__
+Sample 4: i 'm gonna have to call him . __eou__
+[09_26_40] Epoch: 2, Update: 115750, Cost: 19.7669773102, UD 0.901015996933
+[09_30_17] Epoch: 2, Update: 116000, Cost: 31.0862350464, UD 0.909213066101
+[09_33_55] Epoch: 2, Update: 116250, Cost: 23.2967967987, UD 0.694792985916
+[09_37_31] Epoch: 2, Update: 116500, Cost: 14.7401342392, UD 0.866140842438
+[09_41_10] Epoch: 2, Update: 116750, Cost: 22.9276180267, UD 0.9221098423
+[09_44_52] Epoch: 2, Update: 117000, Cost: 34.9588699341, UD 0.908263921738
+Source 0:  we are supposed to be leaving for our new apartments in UNK . __eou__
+Truth 0: but i 'm afraid our departure was delayed . __eou__
+Sample 0: well , i 'm gonna go with you . __eou__
+Source 1:  but i 'm afraid our departure was delayed . __eou__
+Truth 1: i throw myself utterly upon your mercy . __eou__
+Sample 1: i 'm sorry , sir , but i 'm not very good at it . __eou__
+Source 2:  i throw myself utterly upon your mercy . __eou__
+Truth 2: i say , pa , what 's taking so ... __eou__
+Sample 2: i will not let you go . __eou__
+Source 3:  i say , pa , what 's taking so ... __eou__
+Truth 3: can you find it in yourself to forgive us , sir ? __eou__
+Sample 3: i will not let you go . __eou__
+Source 4:  can you find it in yourself to forgive us , sir ? __eou__
+Truth 4: madam , what i supposed an UNK , i now regard as an honour . __eou__
+Sample 4: i 'm sorry , sir , but i 'm not very good at it . __eou__
+[09_48_33] Epoch: 3, Update: 117250, Cost: 33.9375267029, UD 0.904052019119
+[09_52_15] Epoch: 3, Update: 117500, Cost: 27.6611652374, UD 0.911477088928
+[09_55_55] Epoch: 3, Update: 117750, Cost: 22.5891571045, UD 0.87215590477
+[09_59_37] Epoch: 3, Update: 118000, Cost: 23.2861118317, UD 0.830070018768
+[10_03_18] Epoch: 3, Update: 118250, Cost: 27.0853061676, UD 0.863580942154
+[10_06_53] Epoch: 3, Update: 118500, Cost: 37.4194297791, UD 0.841696977615
+Source 0:  debate will be coming tomorrow morning when UNK leaders plan to roll out __eou__
+Truth 0: their ambitious $ 800 billion UNK plan __eou__
+Sample 0: and we 'll be in the audience . __eou__  what ? __eou__
+Source 1:  their ambitious $ 800 billion UNK plan __eou__
+Truth 1: their prescription for an UNK economy . __eou__
+Sample 1: and we 'll see the UNK . __eou__
+Source 2:  their prescription for an UNK economy . __eou__
+Truth 2: it 's your money . __eou__ you ought to keep more of it . __eou__
+Sample 2: UNK . __eou__   __eou__
+Source 3:  it 's your money . __eou__ you ought to keep more of it . __eou__
+Truth 3: this is what americans deserve . __eou__
+Sample 3: you 'll be in the top ten . __eou__  i 'm gonna go __eou__
+Source 4:  this is what americans deserve . __eou__
+Truth 4: still no response from the white house on what is certain to be __eou__
+Sample 4: for the first time ever . __eou__
+[10_10_29] Epoch: 3, Update: 118750, Cost: 26.3446578979, UD 0.829753875732
+[10_14_10] Epoch: 3, Update: 119000, Cost: 25.922164917, UD 0.90743303299
+[10_17_43] Epoch: 3, Update: 119250, Cost: 22.7594680786, UD 0.781113862991
+[10_21_21] Epoch: 3, Update: 119500, Cost: 24.9487838745, UD 0.869172096252
+[10_24_57] Epoch: 3, Update: 119750, Cost: 22.8404216766, UD 0.874078989029
+[10_28_37] Epoch: 3, Update: 120000, Cost: 25.2301807404, UD 0.837243080139
+Saving...
+Done
+Source 0:  our station is the closest , __eou__
+Truth 0: tell everyone to get moving ! __eou__
+Sample 0: yes ! __eou__
+Source 1:  tell everyone to get moving ! __eou__
+Truth 1: UNK fire , UNK fire station . __eou__
+Sample 1: we 're on our way ! __eou__
+Source 2:  UNK fire , UNK fire station . __eou__
+Truth 2: special news bulletin . __eou__
+Sample 2: hurry ! __eou__
+Source 3:  special news bulletin . __eou__
+Truth 3: due to a fire __eou__
+Sample 3: __eou__
+Source 4:  due to a fire __eou__
+Truth 4: at UNK power 's natural gas pipe , __eou__
+Sample 4: UNK fire ! __eou__
+Train: 25.2301807404 Val: 33.5531387329 ValPerp: 25.3897279399
+Seen 359808 samples
+[10_48_35] Epoch: 3, Update: 120250, Cost: 20.2175159454, UD 0.89749288559
+[10_52_16] Epoch: 3, Update: 120500, Cost: 26.0377483368, UD 0.903459787369
+[10_55_54] Epoch: 3, Update: 120750, Cost: 17.6133213043, UD 0.911249876022
+[10_59_32] Epoch: 3, Update: 121000, Cost: 26.0086154938, UD 0.872978925705
+[11_03_10] Epoch: 3, Update: 121250, Cost: 24.7754745483, UD 0.836198091507
+[11_06_51] Epoch: 3, Update: 121500, Cost: 23.9159965515, UD 0.923746109009
+Source 0:  even if i tell you where he is , __eou__
+Truth 0: by the time you figure out if i 'm telling you the truth , __eou__
+Sample 0: i 'll be right back . __eou__
+Source 1:  by the time you figure out if i 'm telling you the truth , __eou__
+Truth 1: your son will be dead of dehydration . __eou__
+Sample 1: i 'll tell you the truth . __eou__
+Source 2:  your son will be dead of dehydration . __eou__
+Truth 2: you won 't find him without me . __eou__
+Sample 2: i 'll call you back . __eou__
+Source 3:  you won 't find him without me . __eou__
+Truth 3: so take your hands off of me , and let 's talk . __eou__
+Sample 3: i 'm not going to do that . __eou__
+Source 4:  so take your hands off of me , and let 's talk . __eou__
+Truth 4: what do you want ? __eou__
+Sample 4: you 're not going to be here forever . __eou__
+[11_10_33] Epoch: 3, Update: 121750, Cost: 22.33177948, UD 0.783078193665
+[11_14_15] Epoch: 3, Update: 122000, Cost: 20.6078281403, UD 0.857010126114
+[11_17_56] Epoch: 3, Update: 122250, Cost: 20.2899627686, UD 0.854037046432
+[11_21_38] Epoch: 3, Update: 122500, Cost: 30.7363796234, UD 0.881108045578
+[11_25_18] Epoch: 3, Update: 122750, Cost: 25.8225345612, UD 0.922734975815
+[11_28_58] Epoch: 3, Update: 123000, Cost: 20.5778656006, UD 0.701735019684
+Source 0:  i have some thoughts about that , __eou__
+Truth 0: but ... __eou__
+Sample 0: that we 're gonna do . __eou__
+Source 1:  but ... __eou__
+Truth 1: craig : __eou__ i 'm with you . __eou__ i ... __eou__
+Sample 1: marty : __eou__ we 're gonna __eou__
+Source 2:  craig : __eou__ i 'm with you . __eou__ i ... __eou__
+Truth 2: trying to pump it dry and send __eou__
+Sample 2: i 'm with you . __eou__
+Source 3:  trying to pump it dry and send __eou__
+Truth 3: people down there scares me , __eou__
+Sample 3: on the bottom of my head . __eou__
+Source 4:  people down there scares me , __eou__
+Truth 4: that something could UNK . __eou__
+Sample 4: that we 're gonna do . __eou__
+[11_32_39] Epoch: 3, Update: 123250, Cost: 20.5375022888, UD 0.93753194809
+[11_36_24] Epoch: 3, Update: 123500, Cost: 27.6113815308, UD 0.914491891861
+[11_40_06] Epoch: 3, Update: 123750, Cost: 28.1328773499, UD 0.925384044647
+[11_43_53] Epoch: 3, Update: 124000, Cost: 22.8651924133, UD 0.931807994843
+[11_47_33] Epoch: 3, Update: 124250, Cost: 21.8704185486, UD 0.914061069489
+[11_51_12] Epoch: 3, Update: 124500, Cost: 28.5862598419, UD 0.851055860519
+Source 0:  was daddy happy too ? __eou__
+Truth 0: of course he was . __eou__
+Sample 0: i 'm gonna go to the bathroom . __eou__
+Source 1:  of course he was . __eou__
+Truth 1: then why is he leaving me ? __eou__
+Sample 1: that i would be happy to see you . __eou__
+Source 2:  then why is he leaving me ? __eou__
+Truth 2: well , he 's not leaving you , nick . __eou__
+Sample 2: i don 't know . __eou__
+Source 3:  well , he 's not leaving you , nick . __eou__
+Truth 3: i mean , he loves you , and he loves lexi very , very much . __eou__
+Sample 3: i 'm sorry . __eou__
+Source 4:  i mean , he loves you , and he loves lexi very , very much . __eou__
+Truth 4: then why can 't he live with us ? __eou__
+Sample 4: i can 't believe you 're saying that . __eou__
+[11_54_55] Epoch: 3, Update: 124750, Cost: 31.0822181702, UD 0.919191122055
+[11_58_34] Epoch: 3, Update: 125000, Cost: 29.2993431091, UD 0.837079048157
+Saving...
+Done
+[12_02_22] Epoch: 3, Update: 125250, Cost: 24.3198165894, UD 0.889116048813
+[12_06_05] Epoch: 3, Update: 125500, Cost: 40.041179657, UD 0.896759986877
+[12_09_48] Epoch: 3, Update: 125750, Cost: 28.4187717438, UD 0.871886014938
+[12_13_28] Epoch: 3, Update: 126000, Cost: 23.981552124, UD 0.833601951599
+Source 0:  did you really fall for her ? __eou__
+Truth 0: it was stronger than you . __eou__  once again this story ? __eou__
+Sample 0: what ? __eou__
+Source 1:  it was stronger than you . __eou__  once again this story ? __eou__
+Truth 1: your father also ! __eou__
+Sample 1: i didn 't want to be a mother . __eou__
+Source 2:  your father also ! __eou__
+Truth 2: what ? __eou__  i just saw them __eou__
+Sample 2: i 'll tell you what happened . __eou__
+Source 3:  what ? __eou__  i just saw them __eou__
+Truth 3: embracing each other . __eou__  dad and UNK ? __eou__
+Sample 3: i didn 't say that . __eou__
+Source 4:  embracing each other . __eou__  dad and UNK ? __eou__
+Truth 4: dad and nadia ? __eou__  only that interests you ? __eou__
+Sample 4: i 'll be back in a minute . __eou__
+[12_17_03] Epoch: 3, Update: 126250, Cost: 24.5366859436, UD 0.825062990189
+[12_20_47] Epoch: 3, Update: 126500, Cost: 26.1247367859, UD 0.932590007782
+[12_24_43] Epoch: 3, Update: 126750, Cost: 29.4987010956, UD 0.993491172791
+[12_28_46] Epoch: 3, Update: 127000, Cost: 28.5204257965, UD 0.98796916008
+[12_32_50] Epoch: 3, Update: 127250, Cost: 30.0187835693, UD 0.986863851547
+[12_36_50] Epoch: 3, Update: 127500, Cost: 22.5303878784, UD 1.01077699661
+Source 0:  if i were more __eou__
+Truth 0: more __eou__
+Sample 0: i 'd have gone home . __eou__
+Source 1:  more __eou__
+Truth 1: more __eou__
+Sample 1: __eou__
+Source 2:  more __eou__
+Truth 2: more __eou__
+Sample 2: __eou__
+Source 3:  more __eou__
+Truth 3: more ... __eou__
+Sample 3: __eou__
+Source 4:  more ... __eou__
+Truth 4: what ... __eou__
+Sample 4: more __eou__
+[12_40_55] Epoch: 3, Update: 127750, Cost: 19.387550354, UD 0.976185083389
+[12_44_56] Epoch: 3, Update: 128000, Cost: 29.5146961212, UD 1.02587294579
+[12_49_02] Epoch: 3, Update: 128250, Cost: 23.5778312683, UD 0.973381996155
+[12_53_03] Epoch: 3, Update: 128500, Cost: 37.4221000671, UD 0.938951015472
+[12_57_05] Epoch: 3, Update: 128750, Cost: 34.8022346497, UD 0.897905111313
+[13_02_32] Epoch: 3, Update: 129000, Cost: 28.6374759674, UD 0.952651977539
+Source 0:  my psychic powers are a direct result from the experiments that voice did on me . __eou__
+Truth 0: that was a long time ago . __eou__
+Sample 0: i 'm not a UNK . __eou__ i 'm a UNK . __eou__
+Source 1:  that was a long time ago . __eou__
+Truth 1: i learned that those kind of experiments are wrong . __eou__
+Sample 1: i 'm not a UNK . __eou__
+Source 2:  i learned that those kind of experiments are wrong . __eou__
+Truth 2: a little late for me , i guess . __eou__
+Sample 2: i 'm not a UNK . __eou__
+Source 3:  a little late for me , i guess . __eou__
+Truth 3: i 'm getting a reading . __eou__
+Sample 3: i 'm not a UNK . __eou__
+Source 4:  i 'm getting a reading . __eou__
+Truth 4: we 'll have company in about two minutes . __eou__ let 's move ! __eou__
+Sample 4: i 'm not a UNK . __eou__
+[13_06_39] Epoch: 3, Update: 129250, Cost: 29.3817768097, UD 0.904747009277
+[13_11_56] Epoch: 3, Update: 129500, Cost: 38.6000289917, UD 0.927472114563
+[13_16_00] Epoch: 3, Update: 129750, Cost: 27.2184677124, UD 0.86187005043
+[13_20_06] Epoch: 3, Update: 130000, Cost: 27.4011230469, UD 1.01449513435
+Saving...
+Done
+[13_24_19] Epoch: 3, Update: 130250, Cost: 28.5231952667, UD 1.0245449543
+[13_30_19] Epoch: 3, Update: 130500, Cost: 28.3359298706, UD 0.941525936127
+Source 0:  and we both know how he feels about hawking . __eou__
+Truth 0: okay , i 'll talk to you later . __eou__ bye , cisco . __eou__
+Sample 0: i think he 's a little bit UNK . __eou__
+Source 1:  okay , i 'll talk to you later . __eou__ bye , cisco . __eou__
+Truth 1: merry christmas , doc . __eou__
+Sample 1: bye . __eou__
+Source 2:  merry christmas , doc . __eou__
+Truth 2: thank you , jimmy , and to you . __eou__
+Sample 2: i 'm sorry . __eou__
+Source 3:  thank you , jimmy , and to you . __eou__
+Truth 3: hey , doc , i know it 's a big secret , __eou__
+Sample 3: i 'm so glad you could make it . __eou__
+Source 4:  hey , doc , i know it 's a big secret , __eou__
+Truth 4: but can you give me a hint ? __eou__
+Sample 4: i know you 're not a big fan of yours , __eou__
+[13_35_45] Epoch: 3, Update: 130750, Cost: 27.0080490112, UD 1.01493096352
+[13_41_17] Epoch: 3, Update: 131000, Cost: 24.2624473572, UD 0.926522016525
+[13_46_50] Epoch: 3, Update: 131250, Cost: 27.8415737152, UD 0.872469902039
+[13_52_17] Epoch: 3, Update: 131500, Cost: 18.1848697662, UD 0.883322954178
+[13_57_50] Epoch: 3, Update: 131750, Cost: 29.4761333466, UD 0.932590961456
+[14_03_16] Epoch: 3, Update: 132000, Cost: 22.2925777435, UD 0.996783018112
+Source 0:  yes , i saw her naked . __eou__
+Truth 0: no , i did not fuck her . __eou__
+Sample 0: i 'm sorry . __eou__
+Source 1:  no , i did not fuck her . __eou__
+Truth 1: you spoke to her ? __eou__
+Sample 1: i 'm not a whore . __eou__
+Source 2:  you spoke to her ? __eou__
+Truth 2: yes , i know . __eou__ one minute . __eou__
+Sample 2: she was ... __eou__
+Source 3:  yes , i know . __eou__ one minute . __eou__
+Truth 3: how is she ? __eou__
+Sample 3: i 'm not a whore . __eou__
+Source 4:  how is she ? __eou__
+Truth 4: she loves you ... __eou__
+Sample 4: she 's not coming . __eou__
+[14_08_44] Epoch: 3, Update: 132250, Cost: 27.261007309, UD 4.94762301445
+[14_14_12] Epoch: 3, Update: 132500, Cost: 28.8405780792, UD 0.863054037094
+[14_19_37] Epoch: 3, Update: 132750, Cost: 24.2592887878, UD 0.869760036469
+[14_25_07] Epoch: 3, Update: 133000, Cost: 29.4703884125, UD 0.869726896286
+[14_30_34] Epoch: 3, Update: 133250, Cost: 29.0020484924, UD 1.01061201096
+[14_36_03] Epoch: 3, Update: 133500, Cost: 19.2777767181, UD 0.936444997787
+Source 0:  to serve us nice food in a while . __eou__
+Truth 0: really ? __eou__
+Sample 0: i will take care of it . __eou__
+Source 1:  really ? __eou__
+Truth 1: me too ? __eou__
+Sample 1: what 's this ? __eou__
+Source 2:  me too ? __eou__
+Truth 2: of course ! __eou__
+Sample 2: i 'd like to go . __eou__
+Source 3:  of course ! __eou__
+Truth 3: wing chun , boss said he 's not feeling well today . __eou__
+Sample 3: i 'd like to go for a drink . __eou__
+Source 4:  wing chun , boss said he 's not feeling well today . __eou__
+Truth 4: he went back to have a rest . __eou__
+Sample 4: it 's for you . __eou__
+[14_41_29] Epoch: 3, Update: 133750, Cost: 32.86485672, UD 0.855455875397
+[14_46_59] Epoch: 3, Update: 134000, Cost: 27.7558345795, UD 4.9966199398
+[14_52_16] Epoch: 3, Update: 134250, Cost: 15.7665176392, UD 0.926842927933
+[14_57_46] Epoch: 3, Update: 134500, Cost: 20.0668106079, UD 0.936038017273
+[15_02_56] Epoch: 3, Update: 134750, Cost: 27.5119514465, UD 0.780153036118
+[15_08_20] Epoch: 3, Update: 135000, Cost: 25.2065563202, UD 0.923335790634
+Saving...
+Done
+Source 0:  your bag . __eou__  thank you . __eou__
+Truth 0: by the way , how is the wife and kids ? __eou__  fine . __eou__
+Sample 0: __eou__
+Source 1:  by the way , how is the wife and kids ? __eou__  fine . __eou__
+Truth 1: nice , liking your style . __eou__ quality . __eou__
+Sample 1: we 'll have a nice , UNK , UNK UNK . __eou__
+Source 2:  nice , liking your style . __eou__ quality . __eou__
+Truth 2: tada . __eou__
+Sample 2: you know , i 'm not really sure how i feel about this , __eou__
+Source 3:  tada . __eou__
+Truth 3: why is everyone obsessed with these bloody , starving africans ? __eou__
+Sample 3: __eou__
+Source 4:  why is everyone obsessed with these bloody , starving africans ? __eou__
+Truth 4: oh , hello . __eou__
+Sample 4: i 'm not going to be a UNK . __eou__
+Train: 25.2065563202 Val: 33.421207428 ValPerp: 25.0688797864
+Seen 2279808 samples
+[15_38_04] Epoch: 3, Update: 135250, Cost: 24.0523757935, UD 1.01309895515
+[15_42_08] Epoch: 3, Update: 135500, Cost: 27.2702789307, UD 0.984457015991
+[15_46_15] Epoch: 3, Update: 135750, Cost: 24.8233222961, UD 1.01539587975
+[15_50_24] Epoch: 3, Update: 136000, Cost: 24.2573337555, UD 0.97044301033
+[15_54_27] Epoch: 3, Update: 136250, Cost: 20.0381450653, UD 1.02430391312
+[15_58_32] Epoch: 3, Update: 136500, Cost: 28.5925579071, UD 0.999372959137
+Source 0:  " lf the din starts to annoy you , you just have to say : __eou__
+Truth 0: UNK ... UNK UNK ! " __eou__
+Sample 0: " UNK , UNK , UNK , UNK , UNK , UNK , UNK , " __eou__
+Source 1:  UNK ... UNK UNK ! " __eou__
+Truth 1: " g " stands for UNK , deadly monster . __eou__
+Sample 1: UNK : __eou__ UNK ! __eou__
+Source 2:  " g " stands for UNK , deadly monster . __eou__
+Truth 2: you can conjure up a UNK , deadly monster ... __eou__
+Sample 2: UNK : __eou__ UNK ! __eou__
+Source 3:  you can conjure up a UNK , deadly monster ... __eou__
+Truth 3: by snapping your fingers and saying : __eou__
+Sample 3: UNK : __eou__ UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK . __eou__
+Source 4:  by snapping your fingers and saying : __eou__
+Truth 4: UNK UNK UNK UNK . __eou__
+Sample 4: UNK , UNK , UNK , UNK , UNK . __eou__
+[16_02_36] Epoch: 3, Update: 136750, Cost: 28.7719097137, UD 1.01749992371
+[16_06_35] Epoch: 3, Update: 137000, Cost: 48.3708648682, UD 0.559052944183
+[16_10_37] Epoch: 3, Update: 137250, Cost: 26.6064624786, UD 0.967733860016
+[16_14_45] Epoch: 3, Update: 137500, Cost: 29.9920425415, UD 1.05348491669
+[16_18_48] Epoch: 3, Update: 137750, Cost: 29.3492355347, UD 0.893467903137
+[16_22_53] Epoch: 3, Update: 138000, Cost: 31.6771850586, UD 0.966355085373
+Source 0:  no . __eou__ we cannot have someone from UNK __eou__
+Truth 0: design a park for pawnee . __eou__
+Sample 0: the UNK . __eou__
+Source 1:  design a park for pawnee . __eou__
+Truth 1: we have had a blood feud that has lasted for 200 years . __eou__
+Sample 1: i 'm not going to let you down . __eou__
+Source 2:  we have had a blood feud that has lasted for 200 years . __eou__
+Truth 2: well , we don 't have a lot of time , __eou__
+Sample 2: we have a lot of work to do . __eou__
+Source 3:  well , we don 't have a lot of time , __eou__
+Truth 3: and he is the first decent candidate . __eou__
+Sample 3: a lot of time for a change . __eou__
+Source 4:  and he is the first decent candidate . __eou__
+Truth 4: so let 's at least go meet the guy . __eou__
+Sample 4: the UNK . __eou__
+[16_26_55] Epoch: 3, Update: 138250, Cost: 26.7665519714, UD 0.978449106216
+[16_30_59] Epoch: 3, Update: 138500, Cost: 26.1524276733, UD 0.967750072479
+[16_35_08] Epoch: 3, Update: 138750, Cost: 24.9049606323, UD 0.981441020966
+[16_39_14] Epoch: 3, Update: 139000, Cost: 24.9452190399, UD 1.02573895454
+[16_43_21] Epoch: 3, Update: 139250, Cost: 28.2652950287, UD 0.989878177643
+[16_47_28] Epoch: 3, Update: 139500, Cost: 24.6408233643, UD 0.954883813858
+Source 0:  at some function . __eou__ love at first sight . __eou__
+Truth 0: he 'll not get married . __eou__ he is an absolute UNK . __eou__
+Sample 0: i am not going to the hospital . __eou__
+Source 1:  he 'll not get married . __eou__ he is an absolute UNK . __eou__
+Truth 1: he wants a different girl everyday . __eou__
+Sample 1: he has come here to kill me . __eou__
+Source 2:  he wants a different girl everyday . __eou__
+Truth 2: the wife is no less . __eou__
+Sample 2: i am not going to the hospital . __eou__
+Source 3:  the wife is no less . __eou__
+Truth 3: she went around with a boy in UNK for three days . __eou__
+Sample 3: i am not going to the hospital . __eou__
+Source 4:  she went around with a boy in UNK for three days . __eou__
+Truth 4: they have been disgraced in the society . __eou__
+Sample 4: i am not going to the hospital . __eou__
+[16_51_30] Epoch: 3, Update: 139750, Cost: 22.3336811066, UD 1.03373599052
+[16_55_44] Epoch: 3, Update: 140000, Cost: 40.9482421875, UD 0.824458837509
+Saving...
+Done
+[16_59_58] Epoch: 3, Update: 140250, Cost: 24.7788276672, UD 1.03496003151
+[17_04_03] Epoch: 3, Update: 140500, Cost: 21.6979026794, UD 0.940439939499
+[17_08_06] Epoch: 3, Update: 140750, Cost: 27.4626560211, UD 0.957650899887
+[17_12_11] Epoch: 3, Update: 141000, Cost: 25.8100147247, UD 0.998610973358
+Source 0:  morning __eou__
+Truth 0: mr. fernando UNK arrives . __eou__
+Sample 0: what is it ? __eou__
+Source 1:  mr. fernando UNK arrives . __eou__
+Truth 1: i 'm going back to manila . __eou__
+Sample 1: i 'm going to the bathroom . __eou__
+Source 2:  i 'm going back to manila . __eou__
+Truth 2: get it matthew ? __eou__
+Sample 2: i 'm going to the bathroom . __eou__
+Source 3:  get it matthew ? __eou__
+Truth 3: this is my last night here . __eou__ i will miss this place . __eou__
+Sample 3: i 'm going to the bathroom . __eou__
+Source 4:  this is my last night here . __eou__ i will miss this place . __eou__
+Truth 4: when i was young , my father told me that manila is a beautiful place . __eou__
+Sample 4: i 'm going to the hospital . __eou__
+[17_16_19] Epoch: 3, Update: 141250, Cost: 25.4801177979, UD 1.0202999115
+[17_20_58] Epoch: 3, Update: 141500, Cost: 23.2086601257, UD 0.990886926651
+[17_25_05] Epoch: 3, Update: 141750, Cost: 31.5368175507, UD 1.01810598373
+[17_29_15] Epoch: 3, Update: 142000, Cost: 28.3796348572, UD 1.01495981216
+[17_33_16] Epoch: 3, Update: 142250, Cost: 18.896900177, UD 0.791108846664
+[17_37_24] Epoch: 3, Update: 142500, Cost: 34.4182472229, UD 0.953587055206
+Source 0:  why do i have to wait with you ? __eou__
+Truth 0: that 's more than three questions . __eou__
+Sample 0: i 'll be right back . __eou__
+Source 1:  that 's more than three questions . __eou__
+Truth 1: do you still want me to see your fortune ? __eou__
+Sample 1: i 'll be back . __eou__
+Source 2:  do you still want me to see your fortune ? __eou__
+Truth 2: i want you to be my future . __eou__
+Sample 2: i 'll be back . __eou__
+Source 3:  i want you to be my future . __eou__
+Truth 3: if my heart is not destroyed , will we meet ? __eou__
+Sample 3: i 'll be the one who is going to be my master . __eou__
+Source 4:  if my heart is not destroyed , will we meet ? __eou__
+Truth 4: do you think i should surprise him at the airport ? __eou__
+Sample 4: i 'll be back . __eou__
+[17_41_33] Epoch: 3, Update: 142750, Cost: 28.0341148376, UD 0.862373113632
+[17_45_41] Epoch: 3, Update: 143000, Cost: 34.895488739, UD 0.977455854416
+[17_49_44] Epoch: 3, Update: 143250, Cost: 20.1584873199, UD 0.844142913818
+[17_53_49] Epoch: 3, Update: 143500, Cost: 28.0721721649, UD 0.986295938492
+[17_57_58] Epoch: 3, Update: 143750, Cost: 26.9411277771, UD 1.01653409004
+[18_02_03] Epoch: 3, Update: 144000, Cost: 33.6984481812, UD 1.02013397217
+Source 0:  also , reported killed in the explosion were two UNK __eou__
+Truth 0: a homeless man and a bomb . __eou__
+Sample 0: the UNK was UNK . __eou__
+Source 1:  a homeless man and a bomb . __eou__
+Truth 1: ah ! __eou__ no berry UNK ! __eou__
+Sample 1: i 'm sorry . __eou__
+Source 2:  ah ! __eou__ no berry UNK ! __eou__
+Truth 2: no berry UNK ! __eou__
+Sample 2: i 'm not a UNK . __eou__
+Source 3:  no berry UNK ! __eou__
+Truth 3: and as fun as it was acting stupid on live tv , __eou__
+Sample 3: i 'm sorry , i 'm sorry . __eou__
+Source 4:  and as fun as it was acting stupid on live tv , __eou__
+Truth 4: it was even more fun the next day when we found out __eou__
+Sample 4: and UNK ! __eou__
+[18_06_09] Epoch: 3, Update: 144250, Cost: 25.5256538391, UD 1.03719997406
+[18_10_14] Epoch: 3, Update: 144500, Cost: 33.0351295471, UD 0.968940019608
+[18_14_20] Epoch: 3, Update: 144750, Cost: 34.7488746643, UD 0.94117307663
+[18_18_25] Epoch: 3, Update: 145000, Cost: 30.4179534912, UD 1.02097892761
+Saving...
+Done
+[18_22_40] Epoch: 3, Update: 145250, Cost: 23.9274120331, UD 0.99200296402

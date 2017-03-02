@@ -1,0 +1,29 @@
+Loading data...
+... initializing data iterators
+Building model...
+context_cbow broadcast: (False, False)
+Concat done
+Buliding sampler...
+context_cbow broadcast: (False, False)
+Concat done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+Train: 12.1748132706 Val: 41.5704307556 ValPerp: 28.2664167353
+Seen 128 samples
+Train: 8.81739044189 Val: 42.5142250061 ValPerp: 30.4943704958
+Seen 256 samples
+Train: 1.62912857533 Val: 44.0287513733 ValPerp: 34.4424076347
+Seen 128 samples
+Train: 1.27032101154 Val: 45.3285446167 ValPerp: 38.235855749
+Seen 256 samples
+Train: 0.396891146898 Val: 46.8599472046 ValPerp: 43.2447877359
+Seen 128 samples
+Early Stop!
+Train: 0.261447817087 Val: 47.8655014038 ValPerp: 46.8855365479 Test: 35.8449287415 TestPerp: 48.3913627349
+Training completed!

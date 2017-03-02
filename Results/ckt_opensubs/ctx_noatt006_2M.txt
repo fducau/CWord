@@ -1,0 +1,16 @@
+Loading data...
+... initializing data iterators
+Building model...
+context_cbow broadcast: (False, False)
+Concat done
+Buliding sampler...
+context_cbow broadcast: (False, False)
+Concat done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization

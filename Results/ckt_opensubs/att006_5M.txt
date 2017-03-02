@@ -1,0 +1,15 @@
+Loading data...
+... initializing data iterators
+Building model...
+Buliding sampler...
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+[19_20_24] Epoch: 0, Update: 250, Cost: 49.0259246826, UD 0.87490105629
+[19_23_55] Epoch: 0, Update: 500, Cost: 46.6454582214, UD 0.839487075806
+[19_27_30] Epoch: 0, Update: 750, Cost: 38.6164932251, UD 0.831052064896

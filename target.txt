@@ -1,0 +1,7 @@
+Manuscripts must be in two-column format.  Exceptions to the
+two-column format include the title, as well as the 
+authors' names and complete
+addresses (only in the final version, not in the version submitted for review), 
+which must be centered at the top of the first page (see
+the guidelines in Subsection~\ref{ssec:first}), and any full-width
+figures or tables.  Type single-spaced.  Do not number the pages

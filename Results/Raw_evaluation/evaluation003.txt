@@ -1,0 +1,20 @@
+Loading OpenSubs ATT 2M
+Loading data...
+... initializing data iterators
+Building model...
+Use context: False
+Buliding sampler...
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+Evaluating on train
+Train Cost: 31.9161109924 Train Perplexity: 21.5319171818
+Evaluating on validation
+Valid Cost: 35.8815765381 Valid Perplexity: 30.9817804751
+Evaluating on test
+Test Cost: 36.1665115356 Test Perplexity: 31.3596428174

@@ -1,0 +1,153 @@
+ THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_same_embedd_cont1 --reload_=ckt_same_embed_2016_11_16_17_01_43_epoch4_nbUpd59400 > server_run_005_BIG_sameEmbedd
+
+
+
+ THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./test --modelSize=Small --validBatchSize=50 --decoder=gru_cond_simple
+
+
+
+ THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_noatt_002 --decoder=gru_cond_simple > server_noatt_002.txt
+
+
+=============
+cuda5
+=============
+
+NOTRUNNINGANYMORE - MODELS BACKED UP noatt003 - screen: 18730 - ps: 30920 - gpu3 (defaults)
+try3				
+
+Ubuntu att001 17763 - GPU0
+	 THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_ubuntu/att001 --dataset_ ubuntu --reload_ ./ckt_ubuntu/att001_turn_1 > ./ckt_ubuntu/att001.txt
+
+OpenSubsDS noatt004_300k 23701 - GPU1
+	THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --decoder=gru_cond_simple --saveModelTo=./ckt_opensubs/noatt004_300k --reload_=./ckt_opensubs/noatt004_300k_turn_1 --datasetSize=300000 > ./ckt_opensubs/noatt004_300k.txt
+
+
+OpenSubsDS noatt004 2M 41263 - GPU2
+	THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 launchers/encDecAtt_exp.py --decoder=gru_cond_simple --saveModelTo=./ckt_opensubs/noatt004_2M --datasetSize=2000000 > ./ckt_opensubs/noatt004_2M.txt
+
+OpenSubsDS att005 300k 41312 - GPU3
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att005_300k --datasetSize=300000 > ./ckt_opensubs/att005_300k.txt
+
+
+processing opensubs 23701
+
+=============
+cuda2
+=============
+NOTRUNNINGANYMORE - MODELS BACKED UP
+ server_att_004 (defaults): screen: 40993 - ps: 6869 - gpu1
+ try 4
+ THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_att_004 > noatt_004.txt
+
+
+OpenSubsDS server_att_005 2M GPU3 40993
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att005_2M --datasetSize 2000000 > ./ckt_opensubs/att005_2M.txt
+
+
+
+
+
+
+
+
+
+
+=============
+MERCER
+=============
+OpenSubsDS att006 300K
+THEANO_FLAGS=device=gpu,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att006_300k --datasetSize=300000 --reload=./ckt_opensubs/att005_300k_turn_1 > ./ckt_opensubs/att006_300k.txt
+
+OpenSubsDS noatt006 300K
+THEANO_FLAGS=device=gpu,floatX=float32 python2.7 launchers/encDecAtt_exp.py --decoder=gru_cond_simple --saveModelTo=./ckt_opensubs/noatt006_300k --reload_=./ckt_opensubs/noatt004_300k_turn_1 --datasetSize=300000 > ./ckt_opensubs/noatt006_300k.txt
+
+OpenSubsDS ctx001 300K
+THEANO_FLAGS=device=gpu,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/ctx001_300k --datasetSize=300000 --useContext=True --dimContext=620 > ./ckt_opensubs/ctx001_300k.txt
+
+
+=============
+CUDA 5
+=============
+
+OpenSubsDS att006 5M 41312 - GPU2
+	THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att006_5MFINAL --datasetSize=5000000 --reload_ ./ckt_opensubs/att006_5M1_turn_1 >> ./ckt_opensubs/att006_5M1.txt
+
+OpenSubsDS ctx001 5M 41263 - GPU3
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/ctx001_5MFINAL --datasetSize=5000000 --useContext=True --dimContext=620 --reload_=./ckt_opensubs/ctx001_5M1_turn_1 >> ./ckt_opensubs/ctx001_5M.txt
+
+OpenSubsDS att001 17763 - GPU1
+	THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/noatt006_2M_1 --datasetSize=2000000 --decoder=gru_cond_simple --reload_=./ckt_opensubs/noatt006_2M_turn_0 >> ./ckt_opensubs/NOatt006_2M.txt
+
+Evaluation ctx001 23701 - GPU0
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 evaluate1.py > ./evaluation002.txt
+=============
+COMPLETED
+=============
+
+OpenSubsDS ctx001 2M 41263 - GPU3
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/ctx001_2M --datasetSize=2000000 --useContext=True --dimContext=620 > ./ckt_opensubs/ctx001_2M.txt
+
+OpenSubsDS att006 2M 41312 - GPU2
+	THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att_006_2M --datasetSize=2000000 > ./ckt_opensubs/noatt006_2M.txt
+
+Ubuntu att001 17763 - GPU0
+	 THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_ubuntu/att001 --dataset_ ubuntu --reload_ ./ckt_ubuntu/att001_turn_1 >> ./ckt_ubuntu/att001.txt
+
+Ubuntu ctx001 23701 - GPU1
+	 THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_ubuntu/ctx001_2M --dataset_ ubuntu --useContext=True --dimContext=620  > ./ckt_ubuntu/ctx001.txt	 
+
+
+
+
+
+
+THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/test --reload_ ./ckt_opensubs/ctx001_2M_turn_1 --validFreq 5 --useContext=True --dimContext=620 --datasetSize=256 > ./ckt_opensubs/test.txt
+
+
+
+
+
+
+
+
+=============
+CUDA 5
+=============
+
+OpenSubsDS att006 5M 41312 - GPU2 - PAUSED
+	THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/att006_5MFINAL --datasetSize=5000000 --reload_ ./ckt_opensubs/att006_5M1_turn_1 >> ./ckt_opensubs/att006_5M1.txt 
+
+OpenSubsDS ctx001 5M 41263 - GPU3
+	THEANO_FLAGS=device=gpu3,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/ctx001_5MFINAL --datasetSize=5000000 --useContext=True --dimContext=620 --reload_=./ckt_opensubs/ctx001_5M1_turn_1 >> ./ckt_opensubs/ctx001_5M.txt
+
+
+	THEANO_FLAGS=device=gpu1,floatX=float32 python2.7 launchers/encDecAtt_exp.py --saveModelTo=./ckt_opensubs/noatt006_2M_1 --datasetSize=2000000 --decoder=gru_cond_simple --reload_=./ckt_opensubs/noatt006_2M_turn_0 >> ./ckt_opensubs/NOatt006_2M.txt
+
+Evaluation ctx001final 23701 - GPU0
+	THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 evaluate1.py > ./evaluation5MFINAL.txt
+
+GENERATE PREDICTIONS
+=====================
+OpenSubsDS ATT 17763 - GPU0
+
+THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 chat.py --model ckt_opensubs/att_006_2M_turn_0 --test data/OpenSubsDS/source_test_idx --output data/OpenSubsDS/pred_test.txt --dict data/OpenSubsDS/source_train_dict.pkl
+
+OpenSubsDS CTX 23954 - GPU0
+
+THEANO_FLAGS=device=gpu0,floatX=float32 python2.7 chat.py --model ckt_opensubs/ctx001_2M_turn_1 --test data/OpenSubsDS/source_test_idx --output data/OpenSubsDS/pred_ctx_test.txt --dict data/OpenSubsDS/source_train_dict.pkl --context data/OpenSubsDS/context_test_idx
+
+UbuntuDS ATT 24520 - GPU2
+
+THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 chat.py --model ckt_ubuntu/att001_turn_0 --test data/UbuntuDS/source_test_idx --output data/UbuntuDS/pred_test.txt --dict data/UbuntuDS/source_train_dict.pkl
+
+UbuntuDS CTX 25797 - GPU2
+
+THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 chat.py --model ckt_ubuntu/ctx001_2M_turn_1 --test data/UbuntuDS/source_test_idx --output data/UbuntuDS/pred_ctx_test.txt --dict data/UbuntuDS/source_train_dict.pkl --context data/OpenSubsDS/context_test_idx
+
+
+
+
+41312 GPU2
+
+THEANO_FLAGS=device=gpu2,floatX=float32 python2.7 chat.py --model ckt_ubuntu/ctx001_5MFINAL_turn_1 --test data/OpenSubsDS/source_test_idx --output data/OpenSubsDS/pred_ctx5M_test.txt --dict data/OpenSubsDS/source_train_dict.pkl --context data/OpenSubsDS/context_test_idx

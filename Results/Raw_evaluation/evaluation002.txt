@@ -1,0 +1,63 @@
+Loading OpenSubs CTX 2M
+Loading data...
+... initializing data iterators
+Building model...
+context_cbow broadcast: (False, False)
+Concat done
+Use context: False
+Buliding sampler...
+context_cbow broadcast: (False, False)
+Concat done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+Evaluating on train
+Train Cost: 32.3110809326 Train Perplexity: 22.3655669254
+Evaluating on validation
+Valid Cost: 36.4575080872 Valid Perplexity: 32.7370798625
+Evaluating on test
+Test Cost: 36.6781082153 Test Perplexity: 32.9259405683
+Loading Ubuntu ATT
+Loading data...
+... initializing data iterators
+Building model...
+Use context: False
+Buliding sampler...
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+Evaluating on train
+Train Cost: 65.4730377197 Train Perplexity: 47.2760629978
+Evaluating on validation
+Valid Cost: 68.0444564819 Valid Perplexity: 55.0296733084
+Evaluating on test
+Test Cost: 68.0729675293 Test Perplexity: 54.983454613
+Loading Ubuntu ctx
+Loading data...
+... initializing data iterators
+Building model...
+context_cbow broadcast: (False, False)
+Concat done
+Use context: False
+Buliding sampler...
+context_cbow broadcast: (False, False)
+Concat done
+Building f_init... Done
+Building f_next.. Done
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building f_grad... Done
+Building optimizers... Done
+Optimization
+Evaluating on train

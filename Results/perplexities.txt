@@ -1,0 +1,70 @@
+===============
+OPENSUBS
+===============
+
+-------
+NOATT 2M
+-------
+Train Cost: 31.9161109924 Train Perplexity: ---
+Valid Cost: 35.8815765381 Valid Perplexity: 38.725678
+Test Cost: 36.1665115356 Test Perplexity: 38.495649
+
+
+-------
+CTX 2M
+-------
+Train Cost: 32.3110809326 Train Perplexity: 22.3655669254
+Valid Cost: 36.4575080872 Valid Perplexity: 32.7370798625
+Test Cost: 36.6781082153 Test Perplexity: 32.9259405683
+
+Score mean: 0.71718611241
+Score extrema: 0.879697553213
+Score greedy: 0.584973253965
+
+
+-------
+ATT 2M
+-------
+Train Cost: 31.9161109924 Train Perplexity: 21.5319171818
+Valid Cost: 35.8815765381 Valid Perplexity: 30.9817804751
+Test Cost: 36.1665115356 Test Perplexity: 31.3596428174
+
+Score mean: 0.65840976226
+Score extrema: 0.832196553548
+Score greedy: 0.600973249761
+
+
+-------
+CTX 5M
+-------
+Valid Cost: 33.3716011047 Valid Perplexity: 24.9492887015
+Test Cost: 33.9807510376 Test Perplexity: 25.8546326271
+
+
+
+===============
+UBUNTU
+===============
+-------
+ATT
+-------
+Train Cost: 65.4730377197 Train Perplexity: 47.2760629978
+Valid Cost: 68.0444564819 Valid Perplexity: 55.0296733084
+Test Cost: 68.0729675293 Test Perplexity: 54.983454613
+
+Score mean: 0.65840976226
+Score extrema: 0.832196553548
+Score greedy: 0.600973249761
+
+
+
+-------
+CTX
+-------
+Valid Cost: 67.7447891235 Valid Perplexity: 54.0668832836
+Test Cost: 67.7721328735 Test Perplexity: 54.0183668088
+
+Score mean: 0.632676763578
+Score extrema: 0.818137440927
+Score greedy: 0.561761446284
+
